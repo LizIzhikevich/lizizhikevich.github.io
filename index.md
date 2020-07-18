@@ -5,14 +5,14 @@ layout: default
 * * *
 ## Publications
 
-Ao, L., <dt>Izhikevich, L.<dt/>, Voelker, G., Porter, G. Sprocket: A Serverless Video Processing Framework for the Cloud. In Proceedings of the ninth ACM Symposium on Cloud Computing (Socc’18), Carlsbad, Calif, October 2018.
+Ao, L., <dt>Izhikevich, L.</dt>, Voelker, G., Porter, G. Sprocket: A Serverless Video Processing Framework for the Cloud. In Proceedings of the ninth ACM Symposium on Cloud Computing (Socc’18), Carlsbad, Calif, October 2018.
 
-Moshiri, N., <dt>Izhikevich L.<dt/> Design and Analysis of Data Structures. 2018. Print. 
-Moshiri N., <dt>Izhikevich L.<dt/>  Data Structures. Stepik, 2016. Online.
+Moshiri, N., <dt>Izhikevich L.</dt> Design and Analysis of Data Structures. 2018. Print. 
+Moshiri N., <dt>Izhikevich L.</dt>  Data Structures. Stepik, 2016. Online.
 
-<dt>L.Izhikevich<dt/>, R.Gao, E.Peterson, B.Voytek. Measuring the average power of neural oscillations. bioRxiv 441626; Online.
+<dt>L.Izhikevich</dt>, R.Gao, E.Peterson, B.Voytek. Measuring the average power of neural oscillations. bioRxiv 441626; Online.
 
-<dt>L.Izhikevich<dt/>, E.Peterson, B.Voytek. Neural oscillatory power is not Gaussian distributed across time. Program No. 271.03. 2016 Neuroscience Meeting Planner. San Diego, CA:
+<dt>L.Izhikevich</dt>, E.Peterson, B.Voytek. Neural oscillatory power is not Gaussian distributed across time. Program No. 271.03. 2016 Neuroscience Meeting Planner. San Diego, CA:
 Society for Neuroscience, 2016. Online.
 
 More details on [Google Scholar](./https://scholar.google.com/citations?user=jO0eK0AAAAAJ&hl=en)
@@ -20,18 +20,18 @@ More details on [Google Scholar](./https://scholar.google.com/citations?user=jO0
 * * *
 ## Projects
 
-<dt>EMPIRICAL SECURITY RESEARCH GROUP<dt/> (January 2019 - Present)
+<dt>EMPIRICAL SECURITY RESEARCH GROUP</dt> (January 2019 - Present)
 
 Collaborating with Prof. Zakir Durumeric and Stanford Visiting Scholar Renata Teixeira on computer network analysis and security. 
 
-<dt>SYSTEMS AND NETWORKS LAB<dt/> (July 2017- September 2018)
+<dt>SYSTEMS AND NETWORKS LAB</dt> (July 2017- September 2018)
 
 Collaborated with Prof. Geoff Voelker and Prof. George Porter on serverless distributed systems and security related research. Projects include:
 Sprocket: A Serverless Video Processing Framework for the Cloud (paper to appear at SOCC'18).
 investigating vulnerabilities in AWS Lambda (to appear in upcoming published masters thesis)
 To learn more about our projects: https://burst-parallel.sysnet.ucsd.edu
 
-<dt>VOYTEK LAB FOR COGNITIVE AND COMPUTATIONAL NEUROSCIENCE<dt/> (Jan 2015 – September 2018)
+<dt>VOYTEK LAB FOR COGNITIVE AND COMPUTATIONAL NEUROSCIENCE</dt> (Jan 2015 – September 2018)
 
 Collaborated with Prof. Brad Voytek, Erik Peterson and Richard Gao on electrophysiological data analysis. Project includes: 
 analyzing the distribution of EEG, ECOG, MEG and LFP data at different frequencies to invalidate a statistical assumption of a commonly used estimating method in neuroscience (Welch's Method). Presented research results at SFN 2016 (Society For Neuroscience). Pre-print on BioRxiv; Paper submitted to Journal of Neuroscience Methods. 
