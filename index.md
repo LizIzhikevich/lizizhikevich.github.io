@@ -1,6 +1,4 @@
 ---
-layout: page
-excerpt: "About Me..."
+layout: home
 ---
 
-Hey
