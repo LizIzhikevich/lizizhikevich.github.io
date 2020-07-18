@@ -1,21 +1,12 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 I am a Ph.D Student/ NSF Fellow/Stanford Graduate Fellow at the Computer Science Department at Stanford University and a graduate of UC San Diego (B.S. '17, M.S. '18). My research is at the intersection of networking, systems, and security. My hobbies are breakfast, hiking, skiing and traveling. 
 
 * * *
 ## Publications
 
-(visit my Google Scholar Page for more details)
+(visit my [Google Scholar Page](./https://scholar.google.com/citations?user=jO0eK0AAAAAJ&hl=en)( for more details)
 
 Ao, L., Izhikevich, L., Voelker, G., Porter, G. Sprocket: A Serverless Video Processing Framework for the Cloud. In Proceedings of the ninth ACM Symposium on Cloud Computing (Socc’18), Carlsbad, Calif, October 2018.
 
@@ -49,16 +40,26 @@ analyzing the distribution of EEG, ECOG, MEG and LFP data at different frequenci
 * * *
 ## Awards
 
-Undergraduate Award for Excellence in Teaching @UC San Diego
-NSF Graduate Research Fellowship 
-Stanford Graduate Fellowship in Science and Engineering
-Ledell Family Endowed Research Scholarship for Science and Engineering @UC San Diego
-Warren Undergraduate Research Scholarship Recipient @UC San Diego
-UCSD Big Pixel Initiative Hackathon Winner
-Teradata Datathon Finalist
-Warren Undergraduate Research Scholarship Recipient @UC San Diego
-Yelp Dataset Challenge Grand Prize Winner
-Society for Women Engineers Admiral Grace Murray Hopper Scholarship Recipient
+*Undergraduate Award for Excellence in Teaching @UC San Diego
+*NSF Graduate Research Fellowship 
+*Stanford Graduate Fellowship in Science and Engineering
+*Ledell Family Endowed Research Scholarship for Science and Engineering @UC San Diego
+*Warren Undergraduate Research Scholarship Recipient @UC San Diego
+*UCSD Big Pixel Initiative Hackathon Winner
+*Teradata Datathon Finalist
+*Warren Undergraduate Research Scholarship Recipient @UC San Diego
+*Yelp Dataset Challenge Grand Prize Winner
+*Society for Women Engineers Admiral Grace Murray Hopper Scholarship Recipient
+
+* * *
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 > This is a blockquote following a header.
 >
