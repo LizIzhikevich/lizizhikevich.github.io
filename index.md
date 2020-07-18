@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-I am a Ph.D Student/ NSF Fellow/Stanford Graduate Fellow at the Computer Science Department at Stanford University and a graduate of UC San Diego (B.S. '17, M.S. '18). My research is at the intersection of networking, systems, and security. My hobbies are breakfast, hiking, skiing and traveling. 
 
 * * *
 ## Publications
