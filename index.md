@@ -22,7 +22,7 @@ More details on [Google Scholar](./https://scholar.google.com/citations?user=jO0
 
 <dt>EMPIRICAL SECURITY RESEARCH GROUP</dt> (January 2019 - Present)
 
-Collaborating with Prof. Zakir Durumeric and Stanford Visiting Scholar Renata Teixeira on computer network analysis and security. 
+Collaborating with Prof. [Zakir Durumeric](./https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](./https://who.rocq.inria.fr/Renata.Teixeira/) on computer network analysis and security. 
 
 <dt>SYSTEMS AND NETWORKS LAB</dt> (July 2017- September 2018)
 
@@ -52,6 +52,8 @@ analyzing the distribution of EEG, ECOG, MEG and LFP data at different frequenci
 * Society for Women Engineers Admiral Grace Murray Hopper Scholarship Recipient
 
 * * *
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

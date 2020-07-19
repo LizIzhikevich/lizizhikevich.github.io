@@ -1,6 +1,10 @@
 title: Liz Izhikevich
 logo: /assets/img/profile.jpeg
-description: CS PhD at Stanford
-show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+gallery:
+  - image_path: /assets/img/hike.jpeg
+  - image_path: /assets/img/kayak.jpeg
+  - image_path: /assets/img/ski.jpeg
+
