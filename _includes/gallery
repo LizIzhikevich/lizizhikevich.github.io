@@ -1,4 +1,3 @@
-
 {% if include.id %}
   {% assign gallery = page[include.id] %}
 {% else %}
@@ -33,4 +32,6 @@
   {% if include.caption %}
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
+
+	<p>TESTING</p>
 </figure>

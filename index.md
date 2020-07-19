@@ -33,7 +33,7 @@ Collaborated with Prof. [Geoff Voelker](./http://www.cs.ucsd.edu/~voelker) and P
 
 <dt>VOYTEK LAB FOR COGNITIVE AND COMPUTATIONAL NEUROSCIENCE</dt> (Jan 2015 – September 2018)
 
-Collaborated with Prof. Brad Voytek, Erik Peterson and Richard Gao on electrophysiological data analysis. Project includes: 
+Collaborated with Prof. [Brad Voytek](./https://voyteklab.com), Erik Peterson and Richard Gao on electrophysiological data analysis. Project includes: 
 * analyzing the distribution of EEG, ECOG, MEG and LFP data at different frequencies to invalidate a statistical assumption of a commonly used estimating method in neuroscience (Welch's Method). Presented research results at SFN 2016 (Society For Neuroscience). Pre-print on BioRxiv; Paper submitted to Journal of Neuroscience Methods. 
 
 
@@ -52,8 +52,8 @@ Collaborated with Prof. Brad Voytek, Erik Peterson and Richard Gao on electrophy
 * Society for Women Engineers Admiral Grace Murray Hopper Scholarship Recipient
 
 * * *
-{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
 
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
