@@ -53,8 +53,6 @@ analyzing the distribution of EEG, ECOG, MEG and LFP data at different frequenci
 
 * * *
 
-![/assets/imgs/hike.jpeg]
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
