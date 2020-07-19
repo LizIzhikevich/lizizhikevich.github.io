@@ -15,9 +15,9 @@ Ao, L., **Izhikevich, L.**, Voelker, G., Porter, G. [Sprocket: A Serverless Vide
 
 **Izhikevich, E.** [Building and Breaking Burst-Parallel Systems](./https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf). Masters Thesis. UC San Diego, 2018. 
 
-Moshiri, N., **Izhikevich L.** \[Design and Analysis of Data Structures](./https://www.amazon.com/Design-Analysis-Structures-Niema-Moshiri/dp/1981017232). 2018. Print.
+Moshiri, N., **Izhikevich L.** [Design and Analysis of Data Structures](./https://www.amazon.com/Design-Analysis-Structures-Niema-Moshiri/dp/1981017232). 2018. Print.
 
-Moshiri N., **Izhikevich L.**  \[Data Structures](./https://stepik.org/course/579/promo). Stepik, 2016. Online.
+Moshiri N., **Izhikevich L.**  [Data Structures](./https://stepik.org/course/579/promo). Stepik, 2016. Online.
 
 **L.Izhikevich**, R.Gao, E.Peterson, B.Voytek. [Measuring the average power of neural oscillations](./https://www.biorxiv.org/content/biorxiv/early/2018/10/22/441626.full.pdf). bioRxiv 441626; Online.
 
