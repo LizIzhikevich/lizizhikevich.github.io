@@ -34,13 +34,14 @@ Collaborating with Prof. [Zakir Durumeric](./https://zakird.com) and Stanford Vi
 
 Collaborated with Prof. [Geoff Voelker](./http://www.cs.ucsd.edu/~voelker) and Prof. [George Porter](./http://www.cs.ucsd.edu/~gmporter/) on serverless distributed systems and security related research. Projects include:
 
-* Sprocket: A Serverless Video Processing Framework for the Cloud 
-* Co-location vulnerabilities in AWS Lambda
+* Sprocket: A Serverless Video Processing Framework for the Cloud \[[paper](./http://cseweb.ucsd.edu/~gmporter/papers/socc18-sprocket.pdf)\]
+* Co-location vulnerabilities in AWS Lambda\[[thesis](./https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf)\]
 
 <dt>VOYTEK LAB FOR COGNITIVE AND COMPUTATIONAL NEUROSCIENCE</dt> (Jan 2015 – September 2018)
 
 Collaborated with Prof. [Brad Voytek](./https://voyteklab.com), [Erik Peterson](./http://www.robotpuggle.com) and [Richard Gao](./http://www.rdgao.com) on electrophysiological data analysis. Project includes: 
-* analyzing the distribution of EEG, ECOG, MEG and LFP data at different frequencies to invalidate a statistical assumption of a commonly used estimating method in neuroscience (Welch's Method). Presented research results at SFN 2016 (Society For Neuroscience). Pre-print on BioRxiv; Paper submitted to Journal of Neuroscience Methods. 
+
+* invalidate a statistical assumption of a commonly used estimating method in neuroscience (Welch's Method) through the analysis of EEG, ECOG, MEG and LFP data. Presented at SFN 2016. \[[paper](./https://www.biorxiv.org/content/biorxiv/early/2018/10/22/441626.full.pdf)\] 
 
 
 * * *
