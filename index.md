@@ -24,24 +24,27 @@ Society for Neuroscience, 2016. Online.
 More details on [Google Scholar](./https://scholar.google.com/citations?user=jO0eK0AAAAAJ&hl=en)
 
 * * *
-## Projects
+## Labs
 
 <dt>EMPIRICAL SECURITY RESEARCH GROUP</dt> (January 2019 - Present)
 
 Collaborating with Prof. [Zakir Durumeric](./https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](./https://who.rocq.inria.fr/Renata.Teixeira/) on computer network analysis and security. 
 
+* LZR: Accurately and Efficiently Identifying Service Liveness and Protocols in Internet-Wide Scans \[Under Review\]
+* The Impact of Location On Internet-Wide Scans \[Under Review\]
+
 <dt>SYSTEMS AND NETWORKS LAB</dt> (July 2017- September 2018)
 
-Collaborated with Prof. [Geoff Voelker](./http://www.cs.ucsd.edu/~voelker) and Prof. [George Porter](./http://www.cs.ucsd.edu/~gmporter/) on serverless distributed systems and security related research. Projects include:
+Collaborated with Prof. [Geoff Voelker](./http://www.cs.ucsd.edu/~voelker) and Prof. [George Porter](./http://www.cs.ucsd.edu/~gmporter/) on serverless distributed systems and security related research.
 
 * Sprocket: A Serverless Video Processing Framework for the Cloud \[[paper](./http://cseweb.ucsd.edu/~gmporter/papers/socc18-sprocket.pdf)\]
-* Co-location vulnerabilities in AWS Lambda\[[thesis](./https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf)\]
+* Co-location vulnerabilities in AWS Lambda \[[thesis](./https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf)\]
 
 <dt>VOYTEK LAB FOR COGNITIVE AND COMPUTATIONAL NEUROSCIENCE</dt> (Jan 2015 – September 2018)
 
-Collaborated with Prof. [Brad Voytek](./https://voyteklab.com), [Erik Peterson](./http://www.robotpuggle.com) and [Richard Gao](./http://www.rdgao.com) on electrophysiological data analysis. Project includes: 
+Collaborated with Prof. [Brad Voytek](./https://voyteklab.com), [Erik Peterson](./http://www.robotpuggle.com) and [Richard Gao](./http://www.rdgao.com) on electrophysiological data analysis.
 
-* invalidate a statistical assumption of a commonly used estimating method in neuroscience (Welch's Method) through the analysis of EEG, ECOG, MEG and LFP data. Presented at SFN 2016. \[[paper](./https://www.biorxiv.org/content/biorxiv/early/2018/10/22/441626.full.pdf)\] 
+* Invalidated a statistical assumption of a commonly used estimating method in neuroscience (Welch's Method) through the analysis of EEG, ECOG, MEG and LFP data. Presented at SFN 2016 \[[paper](./https://www.biorxiv.org/content/biorxiv/early/2018/10/22/441626.full.pdf)\] 
 
 
 * * *
@@ -62,4 +65,3 @@ Collaborated with Prof. [Brad Voytek](./https://voyteklab.com), [Erik Peterson](
 ## Adventures
 
 {% include gallery %}
-
