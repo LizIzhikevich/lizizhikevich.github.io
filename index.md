@@ -26,15 +26,15 @@ Collaborating with Prof. [Zakir Durumeric](./https://zakird.com) and Stanford Vi
 
 <dt>SYSTEMS AND NETWORKS LAB</dt> (July 2017- September 2018)
 
-Collaborated with Prof. Geoff Voelker and Prof. George Porter on serverless distributed systems and security related research. Projects include:
-Sprocket: A Serverless Video Processing Framework for the Cloud (paper to appear at SOCC'18).
-investigating vulnerabilities in AWS Lambda (to appear in upcoming published masters thesis)
-To learn more about our projects: https://burst-parallel.sysnet.ucsd.edu
+Collaborated with Prof. [Geoff Voelker](./http://www.cs.ucsd.edu/~voelker) and Prof. [George Porter](./http://www.cs.ucsd.edu/~gmporter/) on serverless distributed systems and security related research. Projects include:
+
+* Sprocket: A Serverless Video Processing Framework for the Cloud 
+* Co-location vulnerabilities in AWS Lambda
 
 <dt>VOYTEK LAB FOR COGNITIVE AND COMPUTATIONAL NEUROSCIENCE</dt> (Jan 2015 – September 2018)
 
 Collaborated with Prof. Brad Voytek, Erik Peterson and Richard Gao on electrophysiological data analysis. Project includes: 
-analyzing the distribution of EEG, ECOG, MEG and LFP data at different frequencies to invalidate a statistical assumption of a commonly used estimating method in neuroscience (Welch's Method). Presented research results at SFN 2016 (Society For Neuroscience). Pre-print on BioRxiv; Paper submitted to Journal of Neuroscience Methods. 
+* analyzing the distribution of EEG, ECOG, MEG and LFP data at different frequencies to invalidate a statistical assumption of a commonly used estimating method in neuroscience (Welch's Method). Presented research results at SFN 2016 (Society For Neuroscience). Pre-print on BioRxiv; Paper submitted to Journal of Neuroscience Methods. 
 
 
 * * *
@@ -52,7 +52,7 @@ analyzing the distribution of EEG, ECOG, MEG and LFP data at different frequenci
 * Society for Women Engineers Admiral Grace Murray Hopper Scholarship Recipient
 
 * * *
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
