@@ -3,8 +3,3 @@ logo: /assets/img/profile.jpeg
 google_analytics:
 theme: jekyll-theme-minimal
 
-gallery:
-  - image_path: /assets/img/hike.jpeg
-  - image_path: /assets/img/kayak.jpeg
-  - image_path: /assets/img/ski.jpeg
-

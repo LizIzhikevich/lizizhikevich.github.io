@@ -1,5 +1,11 @@
 ---
 layout: default
+
+gallery:
+  - image_path: /assets/img/hike.jpeg
+  - image_path: /assets/img/kayak.jpeg
+  - image_path: /assets/img/ski.jpeg
+
 ---
 
 * * *
@@ -33,7 +39,7 @@ Collaborated with Prof. [Geoff Voelker](./http://www.cs.ucsd.edu/~voelker) and P
 
 <dt>VOYTEK LAB FOR COGNITIVE AND COMPUTATIONAL NEUROSCIENCE</dt> (Jan 2015 – September 2018)
 
-Collaborated with Prof. [Brad Voytek](./https://voyteklab.com), Erik Peterson and Richard Gao on electrophysiological data analysis. Project includes: 
+Collaborated with Prof. [Brad Voytek](./https://voyteklab.com), [Erik Peterson](./http://www.robotpuggle.com) and [Richard Gao](./http://www.rdgao.com) on electrophysiological data analysis. Project includes: 
 * analyzing the distribution of EEG, ECOG, MEG and LFP data at different frequencies to invalidate a statistical assumption of a commonly used estimating method in neuroscience (Welch's Method). Presented research results at SFN 2016 (Society For Neuroscience). Pre-print on BioRxiv; Paper submitted to Journal of Neuroscience Methods. 
 
 

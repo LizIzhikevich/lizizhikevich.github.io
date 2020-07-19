@@ -33,5 +33,4 @@
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
 
-	<p>TESTING</p>
 </figure>
