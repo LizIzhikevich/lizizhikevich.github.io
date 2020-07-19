@@ -26,7 +26,7 @@ Moshiri N., **Izhikevich L.**  [Data Structures](./https://stepik.org/course/579
 More details on [Google Scholar](./https://scholar.google.com/citations?user=jO0eK0AAAAAJ&hl=en)
 
 * * *
-## Labs
+## Lab Affiliations
 
 <dt>EMPIRICAL SECURITY RESEARCH GROUP</dt> (January 2019 - Present)
 
