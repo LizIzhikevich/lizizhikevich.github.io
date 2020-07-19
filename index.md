@@ -62,6 +62,17 @@ Collaborated with Prof. [Brad Voytek](./https://voyteklab.com), [Erik Peterson](
 * Society for Women Engineers Admiral Grace Murray Hopper Scholarship Recipient
 
 * * *
+## Teaching
+
+Instructional Assistant (at UC San Diego):
+
+* CSE100: Advanced Data Structures in C++ (assisted 4 times)
+* CSE8A: Introduction to Programming in Java, Part 1
+* CSE8B: Introduction to Programming in Java, Part 2
+* CSE12: Introduction to Data Structures
+
+
+* * *
 ## Adventures
 
 {% include gallery layout='third' %}

@@ -26,7 +26,7 @@
       </a>
     {% else %}
       <img src="{{ img.image_path | relative_url }}"
-           alt="{% if img.alt %}{{ img.alt }}{% endif %}" style="width: 50%; height: 50%"/>
+           alt="{% if img.alt %}{{ img.alt }}{% endif %}" style="width: 49%; height: 49%"/>
     {% endif %}
   {% endfor %}
   {% if include.caption %}
