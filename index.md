@@ -11,7 +11,7 @@ gallery:
 * * *
 ## Publications
 
-Ao, L., **Izhikevich, L.**, Voelker, G., Porter, G. [Sprocket: A Serverless Video Processing Framework for the Cloud](./http://cseweb.ucsd.edu/~gmporter/papers/socc18-sprocket.pdf). In Proceedings of the ninth ACM Symposium on Cloud Computing (Socc’18), Carlsbad, Calif, October 2018.
+Ao, L., **Izhikevich, L.**, Voelker, G., Porter, G. [Sprocket: A Serverless Video Processing Framework for the Cloud](http://cseweb.ucsd.edu/~gmporter/papers/socc18-sprocket.pdf). In Proceedings of the ninth ACM Symposium on Cloud Computing (Socc’18), Carlsbad, Calif, October 2018.
 
 **Izhikevich, E.** [Building and Breaking Burst-Parallel Systems](./https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf). Masters Thesis. UC San Diego, 2018. 
 
