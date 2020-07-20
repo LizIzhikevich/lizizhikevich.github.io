@@ -43,7 +43,7 @@ Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visi
 Collaborated with Prof. [Geoff Voelker](http://www.cs.ucsd.edu/~voelker) and Prof. [George Porter](http://www.cs.ucsd.edu/~gmporter/) on serverless distributed systems and security related research.
 
 * Sprocket: A Serverless Video Processing Framework for the Cloud \[[paper](http://cseweb.ucsd.edu/~gmporter/papers/socc18-sprocket.pdf)\]
-* Co-location vulnerabilities in AWS Lambda \[[thesis](https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf)\]
+* Analysis of Co-location vulnerabilities in AWS Lambda \[[thesis](https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf)\]
 
 <dt>VOYTEK LAB FOR COGNITIVE AND COMPUTATIONAL NEUROSCIENCE</dt> (Jan 2015 – September 2018)
 
