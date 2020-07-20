@@ -5,6 +5,11 @@ gallery:
   - image_path: /assets/img/hike.jpeg
   - image_path: /assets/img/kayak.jpeg
   - image_path: /assets/img/ski.jpeg
+  - image_path: /assets/img/IMG_5498.jpeg
+  - image_path: /assets/img/IMG_5518.jpeg
+  - image_path: /assets/img/IMG_7285.jpeg
+  - image_path: /assets/img/IMG_1722.jpeg
+  - image_path: /assets/img/IMG_0897.jpeg
 
 ---
 
