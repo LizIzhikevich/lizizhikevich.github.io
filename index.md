@@ -40,7 +40,7 @@ More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK
 Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/) on computer network analysis and security. 
 
 * [LZR](https://github.com/stanford-esrg/lzr): Accurately and Efficiently Identifying Service Liveness and Protocols in Internet-Wide Scans \[**Under Review**\]
-* The Impact of Location On Internet-Wide Scans \[**Under Review**\]
+* The Impact of Location On Internet-Wide Scans (co-author: Gerry Wan) \[**Under Review**\]
 
 <dt>SYSTEMS AND NETWORKS LAB</dt> (July 2017- September 2018)
 
