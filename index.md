@@ -29,13 +29,17 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK0AAAAAJ&hl=en)
 
 * * *
+## Open-Source
+[LZR](https://github.com/stanford-esrg/lzr): LZR works in tangent with ZMap to efficiently detect and fingerprint unexpected services running on unexpected ports. LZR can detect up 18 unique protocols simoultaneously with just two extra packets and can fingerprint over 35 different protocols.
+
+* * *
 ## Lab Affiliations
 
 <dt>EMPIRICAL SECURITY RESEARCH GROUP</dt> (January 2019 - Present)
 
 Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/) on computer network analysis and security. 
 
-* LZR: Accurately and Efficiently Identifying Service Liveness and Protocols in Internet-Wide Scans \[**Under Review**\][open-source tool](https://github.com/stanford-esrg/lzr)
+* [LZR](https://github.com/stanford-esrg/lzr): Accurately and Efficiently Identifying Service Liveness and Protocols in Internet-Wide Scans \[**Under Review**\]
 * The Impact of Location On Internet-Wide Scans \[**Under Review**\]
 
 <dt>SYSTEMS AND NETWORKS LAB</dt> (July 2017- September 2018)
