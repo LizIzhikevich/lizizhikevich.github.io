@@ -14,6 +14,8 @@ gallery:
 * * *
 ## Publications
 
+G. Wan, **L. Izhikevich**, D. Adrian, K. Yoshioka, R. Holz, C. Rossow, Z. Durumeric. On the Origin of Scanning: The Impact of Location on Internet-Wide Scans. TO APPEAR In ACM Internet Measurement Conference, 2020. 
+
 Ao, L., **Izhikevich, L.**, Voelker, G., Porter, G. [Sprocket: A Serverless Video Processing Framework for the Cloud](http://cseweb.ucsd.edu/~gmporter/papers/socc18-sprocket.pdf). In Proceedings of the ninth ACM Symposium on Cloud Computing (Socc’18), Carlsbad, Calif, October 2018.
 
 **Izhikevich, E.** [Building and Breaking Burst-Parallel Systems](https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf). Masters Thesis. UC San Diego, 2018. 
@@ -30,26 +32,26 @@ More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK
 
 * * *
 ## Open-Source
-[LZR](https://github.com/stanford-esrg/lzr): LZR works in tangent with ZMap to efficiently detect and fingerprint unexpected services running on unexpected ports. LZR can detect up 18 unique protocols simoultaneously with just two extra packets and can fingerprint over 35 different protocols.
+[LZR](https://github.com/stanford-esrg/lzr): LZR efficiently detects and fingerprint unexpected services running on unexpected ports. LZR can detect up 18 unique protocols simoultaneously with just two extra packets and can fingerprint over 35 different protocols.
 
 * * *
 ## Lab Affiliations
 
-<dt>EMPIRICAL SECURITY RESEARCH GROUP</dt> (January 2019 - Present)
+<dt>[EMPIRICAL SECURITY RESEARCH GROUP](https://esrg.stanford.edu)</dt> (January 2019 - Present)
 
 Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/) on computer network analysis and security. 
 
 * [LZR](https://github.com/stanford-esrg/lzr): Accurately and Efficiently Identifying Service Liveness and Protocols in Internet-Wide Scans \[**Under Review**\]
-* The Impact of Location On Internet-Wide Scans (co-author: Gerry Wan) \[**Under Review**\]
+* On the Origin of Scanning: The Impact of Location On Internet-Wide Scans (co-author: Gerry Wan) \[**Accepted to IMC 2020 **\]
 
-<dt>SYSTEMS AND NETWORKS LAB</dt> (July 2017- September 2018)
+<dt>[SYSTEMS AND NETWORKS LAB](https://www.sysnet.ucsd.edu)</dt> (July 2017- September 2018)
 
 Collaborated with Prof. [Geoff Voelker](http://www.cs.ucsd.edu/~voelker) and Prof. [George Porter](http://www.cs.ucsd.edu/~gmporter/) on serverless distributed systems and security related research.
 
 * Sprocket: A Serverless Video Processing Framework for the Cloud \[[paper](http://cseweb.ucsd.edu/~gmporter/papers/socc18-sprocket.pdf)\]
 * Analysis of Co-location vulnerabilities in AWS Lambda \[[thesis](https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf)\]
 
-<dt>VOYTEK LAB FOR COGNITIVE AND COMPUTATIONAL NEUROSCIENCE</dt> (Jan 2015 – September 2018)
+<dt>[VOYTEK LAB FOR COGNITIVE AND COMPUTATIONAL NEUROSCIENCE](https://voyteklab.com)</dt> (Jan 2015 – September 2018)
 
 Collaborated with Prof. [Brad Voytek](https://voyteklab.com), [Erik Peterson](http://www.robotpuggle.com) and [Richard Gao](http://www.rdgao.com) on electrophysiological data analysis.
 
