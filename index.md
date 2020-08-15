@@ -37,21 +37,24 @@ More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK
 * * *
 ## Lab Affiliations
 
-[EMPIRICAL SECURITY RESEARCH GROUP](https://esrg.stanford.edu) (January 2019 - Present)
+[EMPIRICAL SECURITY RESEARCH GROUP](https://esrg.stanford.edu) 
+(January 2019 - Present)
 
 Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/) on computer network analysis and security. 
 
 * [LZR](https://github.com/stanford-esrg/lzr): Accurately and Efficiently Identifying Service Liveness and Protocols in Internet-Wide Scans \[**Under Review**\]
 * On the Origin of Scanning: The Impact of Location On Internet-Wide Scans (co-author: Gerry Wan) \[**Accepted to IMC 2020 **\]
 
-[SYSTEMS AND NETWORKS LAB](https://www.sysnet.ucsd.edu) (July 2017- September 2018)
+[SYSTEMS AND NETWORKS LAB](https://www.sysnet.ucsd.edu) 
+(July 2017- September 2018)
 
 Collaborated with Prof. [Geoff Voelker](http://www.cs.ucsd.edu/~voelker) and Prof. [George Porter](http://www.cs.ucsd.edu/~gmporter/) on serverless distributed systems and security related research.
 
 * Sprocket: A Serverless Video Processing Framework for the Cloud \[[paper](http://cseweb.ucsd.edu/~gmporter/papers/socc18-sprocket.pdf)\]
 * Analysis of Co-location vulnerabilities in AWS Lambda \[[thesis](https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf)\]
 
-[VOYTEK LAB FOR COGNITIVE AND COMPUTATIONAL NEUROSCIENCE](https://voyteklab.com) (Jan 2015 – September 2018)
+[VOYTEK LAB FOR COGNITIVE AND COMPUTATIONAL NEUROSCIENCE](https://voyteklab.com) 
+(Jan 2015 – September 2018)
 
 Collaborated with Prof. [Brad Voytek](https://voyteklab.com), [Erik Peterson](http://www.robotpuggle.com) and [Richard Gao](http://www.rdgao.com) on electrophysiological data analysis.
 
