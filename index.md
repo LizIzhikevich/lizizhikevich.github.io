@@ -26,7 +26,7 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 
 **L.Izhikevich**, R.Gao, E.Peterson, B.Voytek. [Measuring the average power of neural oscillations](https://www.biorxiv.org/content/biorxiv/early/2018/10/22/441626.full.pdf). bioRxiv 441626; Online.
 
-**L.Izhikevich**, E.Peterson, B.Voytek. [Neural oscillatory power is not Gaussian distributed across time](SfN16_IzhikevichPosterAbstract.pdf). Program No. 271.03. 2016 Neuroscience Meeting Planner. San Diego, CA: Society for Neuroscience, 2016. Online. 
+**L.Izhikevich**, E.Peterson, B.Voytek. [Neural oscillatory power is not Gaussian distributed across time](/assets/papers/SfN16_IzhikevichPosterAbstract.pdf). Program No. 271.03. 2016 Neuroscience Meeting Planner. San Diego, CA: Society for Neuroscience, 2016. Online. 
 
 More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK0AAAAAJ&hl=en)
 
