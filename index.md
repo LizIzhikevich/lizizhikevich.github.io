@@ -42,8 +42,9 @@ More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK
 
 Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/) on computer network analysis and security. 
 
-* [LZR](https://github.com/stanford-esrg/lzr): Accurately and Efficiently Identifying Service Liveness and Protocols in Internet-Wide Scans \[**Under Review**\]
-* On the Origin of Scanning: The Impact of Location On Internet-Wide Scans (co-author: Gerry Wan) \[**Accepted to IMC 2020**\]
+* Intelligent Scanning: Building an intelligent scanning system that continously predicts Internet-wide activity
+* [LZR](https://github.com/stanford-esrg/lzr): Identifying Unexpected Internet Services \[**Under Review**\]
+* On the Origin of Scanning: The Impact of Location On Internet-Wide Scans (co-author: Gerry Wan) \[[paper](/assets/papers/IMC20-OnTheOriginOfScanning.pdf)\]
 
 [SYSTEMS AND NETWORKS LAB](https://www.sysnet.ucsd.edu) 
 (July 2017- September 2018)
