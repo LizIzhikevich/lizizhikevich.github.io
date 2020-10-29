@@ -31,7 +31,7 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK0AAAAAJ&hl=en)
 
 * * *
-## Open-Source
+## Open Source
 [LZR](https://github.com/stanford-esrg/lzr): LZR efficiently detects and fingerprint unexpected services running on unexpected ports. LZR can detect up 18 unique protocols simoultaneously with just two extra packets and can fingerprint over 35 different protocols.
 
 * * *
