@@ -14,6 +14,8 @@ gallery:
 * * *
 ## Publications
 
+**L. Izhikevich**, R. Teixeira, Z. Durumeric. [LZR: Identify Unexpected Internet Services](/assets/papers/lzr.pdf) In 30th USENIX Security Symposium, 2021. 
+
 G. Wan, **L. Izhikevich**, D. Adrian, K. Yoshioka, R. Holz, C. Rossow, Z. Durumeric. [On the Origin of Scanning: The Impact of Location on Internet-Wide Scans.](/assets/papers/IMC20-OnTheOriginOfScanning.pdf) In ACM Internet Measurement Conference, 2020. 
 
 Ao, L., **Izhikevich, L.**, Voelker, G., Porter, G. [Sprocket: A Serverless Video Processing Framework for the Cloud](/assets/papers/SOCC18-sprocket.pdf). In Proceedings of the ninth ACM Symposium on Cloud Computing (Socc’18), Carlsbad, Calif, October 2018.
@@ -43,7 +45,7 @@ More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK
 Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/) on computer network analysis and security. 
 
 * Intelligent Scanning: Building an intelligent scanning system that continously predicts Internet-wide activity
-* [LZR](https://github.com/stanford-esrg/lzr): Identifying Unexpected Internet Services \[**Under Review**\]
+* [LZR](https://github.com/stanford-esrg/lzr): Identifying Unexpected Internet Services \[[paper](/assets/papers/lzr.pdf)\]
 * On the Origin of Scanning: The Impact of Location On Internet-Wide Scans (co-author: Gerry Wan) \[[paper](/assets/papers/IMC20-OnTheOriginOfScanning.pdf)\]
 
 [SYSTEMS AND NETWORKS LAB](https://www.sysnet.ucsd.edu) 
