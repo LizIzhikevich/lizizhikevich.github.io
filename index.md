@@ -14,7 +14,7 @@ gallery:
 * * *
 ## Publications
 
-**L. Izhikevich**, R. Teixeira, Z. Durumeric. [LZR: Identify Unexpected Internet Services](/assets/papers/lzr.pdf). In 30th USENIX Security Symposium, 2021. 
+**L. Izhikevich**, R. Teixeira, Z. Durumeric. [LZR: Identifying Unexpected Internet Services](/assets/papers/lzr.pdf). In 30th USENIX Security Symposium, 2021. 
 
 G. Wan, **L. Izhikevich**, D. Adrian, K. Yoshioka, R. Holz, C. Rossow, Z. Durumeric. [On the Origin of Scanning: The Impact of Location on Internet-Wide Scans.\](/assets/papers/IMC20-OnTheOriginOfScanning.pdf). In ACM Internet Measurement Conference, 2020. 
 
