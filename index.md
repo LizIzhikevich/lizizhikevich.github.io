@@ -14,9 +14,9 @@ gallery:
 * * *
 ## Publications
 
-**L. Izhikevich**, R. Teixeira, Z. Durumeric. [LZR: Identify Unexpected Internet Services](/assets/papers/lzr.pdf) In 30th USENIX Security Symposium, 2021. 
+**L. Izhikevich**, R. Teixeira, Z. Durumeric. [LZR: Identify Unexpected Internet Services](/assets/papers/lzr.pdf). In 30th USENIX Security Symposium, 2021. 
 
-G. Wan, **L. Izhikevich**, D. Adrian, K. Yoshioka, R. Holz, C. Rossow, Z. Durumeric. [On the Origin of Scanning: The Impact of Location on Internet-Wide Scans.](/assets/papers/IMC20-OnTheOriginOfScanning.pdf) In ACM Internet Measurement Conference, 2020. 
+G. Wan, **L. Izhikevich**, D. Adrian, K. Yoshioka, R. Holz, C. Rossow, Z. Durumeric. [On the Origin of Scanning: The Impact of Location on Internet-Wide Scans.\](/assets/papers/IMC20-OnTheOriginOfScanning.pdf). In ACM Internet Measurement Conference, 2020. 
 
 Ao, L., **Izhikevich, L.**, Voelker, G., Porter, G. [Sprocket: A Serverless Video Processing Framework for the Cloud](/assets/papers/SOCC18-sprocket.pdf). In Proceedings of the ninth ACM Symposium on Cloud Computing (Socc’18), Carlsbad, Calif, October 2018.
 
@@ -42,26 +42,23 @@ More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK
 [EMPIRICAL SECURITY RESEARCH GROUP](https://esrg.stanford.edu) 
 (January 2019 - Present)
 
-Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/) on computer network analysis and security. 
+Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/) on computer networking and security.
 
-* Intelligent Scanning: Building an intelligent scanning system that continously predicts Internet-wide activity
-* [LZR](https://github.com/stanford-esrg/lzr): Identifying Unexpected Internet Services \[[paper](/assets/papers/lzr.pdf)\]
-* On the Origin of Scanning: The Impact of Location On Internet-Wide Scans (co-author: Gerry Wan) \[[paper](/assets/papers/IMC20-OnTheOriginOfScanning.pdf)\]
+Current Projects:
+* Intelligent Internet-Wide Scanning: Building an intelligent scanning system that continously predicts Internet-wide activity
+* Classifying Autonomous Systems: Using crowdsourcing to classify and analyze all owners of ASes on the Internet (Collaborators: Maya Ziv, Kimberly Ruth, Katherine Izhikevich)  
+* Understanding the Cloud Storage Ecosystem: Using machine learning to scan cloud storage (e.g., S3, Google, Alibaba) and understand its security landscape. (Collaborators: Jack Cable, Drew Gregory) 
+
 
 [SYSTEMS AND NETWORKS LAB](https://www.sysnet.ucsd.edu) 
 (July 2017- September 2018)
 
 Collaborated with Prof. [Geoff Voelker](http://www.cs.ucsd.edu/~voelker) and Prof. [George Porter](http://www.cs.ucsd.edu/~gmporter/) on serverless distributed systems and security related research.
 
-* Sprocket: A Serverless Video Processing Framework for the Cloud \[[paper](http://cseweb.ucsd.edu/~gmporter/papers/socc18-sprocket.pdf)\]
-* Analysis of Co-location vulnerabilities in AWS Lambda \[[thesis](https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf)\]
-
 [VOYTEK LAB FOR COGNITIVE AND COMPUTATIONAL NEUROSCIENCE](https://voyteklab.com) 
 (Jan 2015 – September 2018)
 
 Collaborated with Prof. [Brad Voytek](https://voyteklab.com), [Erik Peterson](http://www.robotpuggle.com) and [Richard Gao](http://www.rdgao.com) on electrophysiological data analysis.
-
-* Invalidated a statistical assumption of a commonly used estimating method in neuroscience (Welch's Method) through the analysis of EEG, ECOG, MEG and LFP data. Presented at SFN 2016 \[[paper](https://www.biorxiv.org/content/biorxiv/early/2018/10/22/441626.full.pdf)\] 
 
 
 * * *
