@@ -12,13 +12,20 @@ gallery:
 ---
 
 * * *
-## Publications
+## Peer-Reviewed Publications
 
 **L. Izhikevich**, R. Teixeira, Z. Durumeric. [LZR: Identifying Unexpected Internet Services](/assets/papers/lzr.pdf). In 30th USENIX Security Symposium, 2021. 
 
 G. Wan, **L. Izhikevich**, D. Adrian, K. Yoshioka, R. Holz, C. Rossow, Z. Durumeric. [On the Origin of Scanning: The Impact of Location on Internet-Wide Scans.\](/assets/papers/IMC20-OnTheOriginOfScanning.pdf). In ACM Internet Measurement Conference, 2020. 
 
 Ao, L., **Izhikevich, L.**, Voelker, G., Porter, G. [Sprocket: A Serverless Video Processing Framework for the Cloud](/assets/papers/SOCC18-sprocket.pdf). In Proceedings of the ninth ACM Symposium on Cloud Computing (Socc’18), Carlsbad, Calif, October 2018.
+
+More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK0AAAAAJ&hl=en)
+
+* * *
+## Other Publications
+
+J. Cable\*, D. Gregory\*, **L. Izhikevich\***, Z. Durumeric. [Stratosphere: Finding Vulnerable Cloud Storage Buckets](/assets/papers/stratosphere.pdf). Under Submission.
 
 **Izhikevich, E.** [Building and Breaking Burst-Parallel Systems](https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf). Masters Thesis. UC San Diego, 2018. 
 
@@ -30,11 +37,10 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 
 **L.Izhikevich**, E.Peterson, B.Voytek. [Neural oscillatory power is not Gaussian distributed across time](/assets/papers/SfN16_IzhikevichPosterAbstract.pdf). Program No. 271.03. 2016 Neuroscience Meeting Planner. San Diego, CA: Society for Neuroscience, 2016. Online. 
 
-More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK0AAAAAJ&hl=en)
-
 * * *
 ## Open Source
 [LZR](https://github.com/stanford-esrg/lzr): LZR efficiently detects and fingerprint unexpected services running on unexpected ports. LZR can detect up 18 unique protocols simoultaneously with just two extra packets and can fingerprint over 35 different protocols.
+
 
 * * *
 ## Lab Affiliations
@@ -47,7 +53,7 @@ Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visi
 Current Projects:
 * Intelligent Internet-Wide Scanning: Building an intelligent scanning system that continously predicts Internet-wide activity
 * Classifying Autonomous Systems: Using crowdsourcing to classify and analyze all owners of ASes on the Internet (Collaborators: Maya Ziv, Kimberly Ruth, Katherine Izhikevich)  
-* Understanding the Cloud Storage Ecosystem: Using machine learning to scan cloud storage (e.g., S3, Google, Alibaba) and understand its security landscape. (Collaborators: Jack Cable, Drew Gregory) 
+* The Security of Remote-Exam-Taking Software: Investigating vulnerabilities and privacy implications for students required to use such software
 
 
 [SYSTEMS AND NETWORKS LAB](https://www.sysnet.ucsd.edu) 
