@@ -25,7 +25,7 @@ More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK
 * * *
 ## Other Publications
 
-J. Cable\*, D. Gregory\*, **L. Izhikevich\***, Z. Durumeric. [Stratosphere: Finding Vulnerable Cloud Storage Buckets](/assets/papers/stratosphere.pdf). Under Submission.
+J. Cable\*, D. Gregory\*, **L. Izhikevich\***, Z. Durumeric. [Stratosphere: Finding Vulnerable Cloud Storage Buckets](/assets/papers/stratosphere.pdf). Under Submission, April 2021
 
 **Izhikevich, E.** [Building and Breaking Burst-Parallel Systems](https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf). Masters Thesis. UC San Diego, 2018. 
 
