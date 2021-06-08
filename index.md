@@ -14,6 +14,8 @@ gallery:
 * * *
 ## Peer-Reviewed Publications
 
+J. Cable\*, D. Gregory\*, **L. Izhikevich\***, Z. Durumeric. [Stratosphere: Finding Vulnerable Cloud Storage Buckets](/assets/papers/stratosphere.pdf). In 24th USENIX International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2021. 
+
 **L. Izhikevich**, R. Teixeira, Z. Durumeric. [LZR: Identifying Unexpected Internet Services](/assets/papers/lzr.pdf). In 30th USENIX Security Symposium, 2021. 
 
 G. Wan, **L. Izhikevich**, D. Adrian, K. Yoshioka, R. Holz, C. Rossow, Z. Durumeric. [On the Origin of Scanning: The Impact of Location on Internet-Wide Scans](/assets/papers/IMC20-OnTheOriginOfScanning.pdf). In ACM Internet Measurement Conference, 2020. 
@@ -24,8 +26,6 @@ More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK
 
 * * *
 ## Other Publications
-
-J. Cable\*, D. Gregory\*, **L. Izhikevich\***, Z. Durumeric. [Stratosphere: Finding Vulnerable Cloud Storage Buckets](/assets/papers/stratosphere.pdf). Under Submission, April 2021
 
 **Izhikevich, E.** [Building and Breaking Burst-Parallel Systems](https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf). Masters Thesis. UC San Diego, 2018. 
 
@@ -52,8 +52,9 @@ Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visi
 
 Current Projects:
 * Intelligent Internet-Wide Scanning: Building an intelligent scanning system that continously predicts Internet-wide activity
-* Classifying Autonomous Systems: Using crowdsourcing to classify and analyze all owners of ASes on the Internet (Collaborators: Maya Ziv, Kimberly Ruth, Katherine Izhikevich)  
-* The Security of Remote-Exam-Taking Software: Investigating vulnerabilities and privacy implications for students required to use such software
+* Classifying Autonomous Systems (Under Submission): Using machine learning and crowdsourcing to classify and analyze all owners of ASes on the Internet (Collaborators: Maya Ziv, Kimberly Ruth, Katherine Izhikevich).   
+* The Security of Remote-Exam-Taking Software: Investigating vulnerabilities and privacy implications for students required to use such software (Collaborators: Luca Pistor, Nathan Bahk, Kimberly Ruth)
+* Understanding Darknet Activity Across Different Networks (Collaborators: Merit Networks, Greynoise)
 
 
 [SYSTEMS AND NETWORKS LAB](https://www.sysnet.ucsd.edu) 
