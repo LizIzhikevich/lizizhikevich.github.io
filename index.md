@@ -14,7 +14,7 @@ gallery:
 * * *
 ## Peer-Reviewed Publications
 
-J. Cable\*, D. Gregory\*, **L. Izhikevich\***, Z. Durumeric. [Stratosphere: Finding Vulnerable Cloud Storage Buckets](/assets/papers/stratosphere.pdf). In 24th USENIX International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2021. 
+J. Cable\*, D. Gregory\*, **L. Izhikevich\***, Z. Durumeric. [Stratosphere: Finding Vulnerable Cloud Storage Buckets](/assets/papers/stratosphere.pdf). In Proceedings of the 24th ACM International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2021. 
 
 **L. Izhikevich**, R. Teixeira, Z. Durumeric. [LZR: Identifying Unexpected Internet Services](/assets/papers/lzr.pdf). In 30th USENIX Security Symposium, 2021. 
 
