@@ -41,6 +41,7 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 ## Open Source
 [LZR](https://github.com/stanford-esrg/lzr): LZR efficiently detects and fingerprint unexpected services running on unexpected ports. LZR can detect up 18 unique protocols simoultaneously with just two extra packets and can fingerprint over 35 different protocols.
 
+[Stratosphere](https://github.com/stanford-esrg/stratosphere): Stratosphere uses password generation algorithms to discover publicly accessible cloud storage buckets.
 
 * * *
 ## Lab Affiliations
