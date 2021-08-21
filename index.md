@@ -55,7 +55,6 @@ Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visi
 
 Current Projects:
 * Intelligent Internet-Wide Scanning: Building an intelligent scanning system that continously predicts Internet-wide activity
-* Classifying Autonomous Systems (Under Submission): Using machine learning and crowdsourcing to classify and analyze all owners of ASes on the Internet (Collaborators: Maya Ziv, Kimberly Ruth, Katherine Izhikevich).   
 * The Security of Remote-Exam-Taking Software: Investigating vulnerabilities and privacy implications for students required to use such software (Collaborators: Luca Pistor, Nathan Bahk, Kimberly Ruth)
 * Understanding Darknet Activity Across Different Networks (Collaborators: Merit Networks, Greynoise)
 
