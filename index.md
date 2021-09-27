@@ -54,7 +54,7 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/) on computer networking and security.
 
 Current Projects:
-* Intelligent Internet-Wide Scanning: Building an intelligent scanning system that continously predicts Internet-wide activity
+* Intelligent Internet-Wide Scanning: Building an intelligent scanning system that continously predicts Internet-wide activity (Under Submission)
 * The Security of Remote-Exam-Taking Software: Investigating vulnerabilities and privacy implications for students required to use such software (Collaborators: Luca Pistor, Nathan Bahk, Kimberly Ruth)
 * Understanding Darknet Activity Across Different Networks (Collaborators: Merit Networks, Greynoise)
 
