@@ -14,7 +14,7 @@ gallery:
 * * *
 ## Peer-Reviewed Publications
 
-M. Ziv, **L. Izhikevich**, K. Ruth, K. Izhikevich, Z. Durumeric. ASdb: A System for Classifying Owners of Autonomous Systems. In ACM Internet Measurement Conference (IMC), 2021. 
+M. Ziv, **L. Izhikevich**, K. Ruth, K. Izhikevich, Z. Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/ASDB.pdf). In ACM Internet Measurement Conference (IMC), 2021. 
 
 J. Cable\*, D. Gregory\*, **L. Izhikevich\***, Z. Durumeric. [Stratosphere: Finding Vulnerable Cloud Storage Buckets](/assets/papers/stratosphere.pdf). In Proceedings of the 24th ACM International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2021. 
 
