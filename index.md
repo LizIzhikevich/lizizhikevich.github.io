@@ -14,6 +14,8 @@ gallery:
 * * *
 ## Peer-Reviewed Publications
 
+**L. Izhikevich**, R. Teixeira, Z. Durumeric. Scalably and Efficiently Discovering IPv4 Services Across All Ports. In ACM Special Interest Group on Data Communication (SIGCOMM), August 2022. 
+
 M. Ziv, **L. Izhikevich**, K. Ruth, K. Izhikevich, Z. Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/ASDB.pdf). In ACM Internet Measurement Conference (IMC), 2021. 
 
 J. Cable\*, D. Gregory\*, **L. Izhikevich\***, Z. Durumeric. [Stratosphere: Finding Vulnerable Cloud Storage Buckets](/assets/papers/stratosphere.pdf). In Proceedings of the 24th ACM International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2021. 
@@ -41,7 +43,7 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 
 * * *
 ## Open Source
-[LZR](https://github.com/stanford-esrg/lzr): LZR efficiently detects and fingerprint unexpected services running on unexpected ports. LZR can detect up 18 unique protocols simoultaneously with just two extra packets and can fingerprint over 35 different protocols.
+[LZR](https://github.com/stanford-esrg/lzr): LZR efficiently detects and fingerprints unexpected services running on unexpected ports. LZR can detect up to 18 unique protocols simoultaneously with just two extra packets and can fingerprint over 35 different protocols.
 
 [Stratosphere](https://github.com/stanford-esrg/stratosphere): Stratosphere uses password generation algorithms to discover publicly accessible cloud storage buckets.
 
@@ -54,9 +56,10 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/) on computer networking and security.
 
 Current Projects:
-* Intelligent Internet-Wide Scanning: Building an intelligent scanning system that continously predicts Internet-wide activity (Under Submission)
-* The Security of Remote-Exam-Taking Software: Investigating vulnerabilities and privacy implications for students required to use such software (Collaborators: Luca Pistor, Nathan Bahk, Kimberly Ruth)
-* Understanding Darknet Activity Across Different Networks (Collaborators: Merit Networks, Greynoise)
+* Continuous Intelligent Internet-Wide Scanning: Building an intelligent scanning system that continously predicts Internet-wide activity (Ongoing Work)
+* Emperically studying the security risks of serverless storage in the cloud (Ongoing Work)
+* Building a Fast DNS Toolkit For Internet Measurement (Under Submission)
+* Understanding Targeted Scanning (Under Submission)
 
 
 [SYSTEMS AND NETWORKS LAB](https://www.sysnet.ucsd.edu) 
@@ -68,6 +71,34 @@ Collaborated with Prof. [Geoff Voelker](http://www.cs.ucsd.edu/~voelker) and Pro
 (Jan 2015 – September 2018)
 
 Collaborated with Prof. [Brad Voytek](https://voyteklab.com), [Erik Peterson](http://www.robotpuggle.com) and [Richard Gao](http://www.rdgao.com) on electrophysiological data analysis.
+
+
+
+* * *
+## Professional Service
+
+#### Technical Program Committees
+* Symposium on Research in Attacks, Intrusions, and Defenses (RAID), 2022.
+* The Passive and Active Measurement Conference (PAM), 2022.
+
+#### Department and University Service
+* Ph.D. Admissions Committee, Computer Science, Stanford University, 2019-2022.
+
+* * *
+## Teaching
+
+Co-Creator/Co-Lecturer/Instructional Assistant (at Stanford):
+* [CS249i: The Modern Internet](https://cs249i.stanford.edu)
+
+Instructional Assistant (at Stanford):
+* [CS356: Topics in computer Networking and Security](https://cs356.stanford.edu)
+
+Instructional Assistant (at UC San Diego):
+
+* CSE100: Advanced Data Structures in C++ (assisted 4 times + textbook author)
+* CSE8A: Introduction to Programming in Java, Part 1
+* CSE8B: Introduction to Programming in Java, Part 2
+* CSE12: Introduction to Data Structures
 
 
 * * *
@@ -83,17 +114,6 @@ Collaborated with Prof. [Brad Voytek](https://voyteklab.com), [Erik Peterson](ht
 * Warren Undergraduate Research Scholarship Recipient @UC San Diego
 * Yelp Dataset Challenge Grand Prize Winner
 * Society for Women Engineers Admiral Grace Murray Hopper Scholarship Recipient
-
-* * *
-## Teaching
-
-Instructional Assistant (at UC San Diego):
-
-* CSE100: Advanced Data Structures in C++ (assisted 4 times)
-* CSE8A: Introduction to Programming in Java, Part 1
-* CSE8B: Introduction to Programming in Java, Part 2
-* CSE12: Introduction to Data Structures
-
 
 * * *
 ## In the News
