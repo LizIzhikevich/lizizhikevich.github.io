@@ -43,7 +43,7 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 
 * * *
 ## Open Source
-[LZR](https://github.com/stanford-esrg/lzr): LZR efficiently detects and fingerprints unexpected services running on unexpected ports. LZR can detect up to 18 unique protocols simoultaneously with just two extra packets and can fingerprint over 35 different protocols.
+[LZR](https://github.com/stanford-esrg/lzr): LZR efficiently detects and fingerprints unexpected services running on unexpected ports. LZR can detect up to 18 unique protocols simultaneously with just two extra packets and can fingerprint over 35 different protocols.
 
 [Stratosphere](https://github.com/stanford-esrg/stratosphere): Stratosphere uses password generation algorithms to discover publicly accessible cloud storage buckets.
 
@@ -56,8 +56,8 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/) on computer networking and security.
 
 Current Projects:
-* Continuous Intelligent Internet-Wide Scanning: Building an intelligent scanning system that continously predicts Internet-wide activity (Ongoing Work)
-* Emperically studying the security risks of serverless storage in the cloud (Ongoing Work)
+* Continuous Intelligent Internet-Wide Scanning: Building an intelligent scanning system that continuously predicts Internet-wide activity (Ongoing Work)
+* Empirically studying the security risks of serverless storage in the cloud (Ongoing Work)
 * Building a Fast DNS Toolkit For Internet Measurement (Under Submission)
 * Understanding Targeted Scanning (Under Submission)
 
