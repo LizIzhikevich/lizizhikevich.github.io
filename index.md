@@ -43,15 +43,15 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 
 * * *
 ## Open Source
-[LZR](https://github.com/stanford-esrg/lzr): LZR efficiently detects and fingerprints unexpected services running on unexpected ports. LZR can detect up to 18 unique protocols simultaneously with just two extra packets and can fingerprint over 35 different protocols.
+[LZR](https://github.com/stanford-esrg/lzr) efficiently detects and fingerprints unexpected services running on unexpected ports. LZR can detect up to 18 unique protocols simultaneously with just two extra packets and can fingerprint over 35 different protocols.
 
-[GPS](https://github.com/stanford-esrg/gps): GPS is coming soon! GPS predicts IPv4 services across all 65K ports.
+[GPS](https://github.com/stanford-esrg/gps) is coming soon! GPS predicts IPv4 services across all 65K ports.
 
-[Stratosphere](https://github.com/stanford-esrg/stratosphere): Stratosphere uses password generation algorithms to discover publicly accessible cloud storage buckets.
+[Stratosphere](https://github.com/stanford-esrg/stratosphere) uses password generation algorithms to discover publicly accessible cloud storage buckets.
 
-[ASdb](https://asdb.stanford.edu/): ASdb is a periodically updating dataset of autonomous systems and their business categories.
+[ASdb](https://asdb.stanford.edu/) is a periodically updating dataset of autonomous systems and their business categories.
 
-[ZDNS](https://github.com/zmap/zdns): ZDNS is a high-speed DNS measurement toolkit that handles billions of lookups from a single server.
+[ZDNS](https://github.com/zmap/zdns) is a high-speed DNS measurement toolkit that handles billions of lookups from a single server.
 * * *
 ## Lab Affiliations
 
