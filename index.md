@@ -14,7 +14,7 @@ gallery:
 * * *
 ## Peer-Reviewed Publications
 
-**L. Izhikevich**, R. Teixeira, Z. Durumeric. Scalably and Efficiently Discovering IPv4 Services Across All Ports. In ACM Special Interest Group on Data Communication (SIGCOMM), August 2022. 
+**L. Izhikevich**, R. Teixeira, Z. Durumeric. Predicting IPv4 Services Across All Ports. In ACM Special Interest Group on Data Communication (SIGCOMM), August 2022. 
 
 M. Ziv, **L. Izhikevich**, K. Ruth, K. Izhikevich, Z. Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/ASDB.pdf). In ACM Internet Measurement Conference (IMC), 2021. 
 
@@ -45,8 +45,13 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 ## Open Source
 [LZR](https://github.com/stanford-esrg/lzr): LZR efficiently detects and fingerprints unexpected services running on unexpected ports. LZR can detect up to 18 unique protocols simultaneously with just two extra packets and can fingerprint over 35 different protocols.
 
+[GPS](https://github.com/stanford-esrg/gps): GPS is coming soon! GPS predicts IPv4 services across all 65K ports.
+
 [Stratosphere](https://github.com/stanford-esrg/stratosphere): Stratosphere uses password generation algorithms to discover publicly accessible cloud storage buckets.
 
+[ASdb](https://asdb.stanford.edu/): ASdb is a periodically updating dataset of autonomous systems and their business categories.
+
+[ZDNS](https://github.com/zmap/zdns): ZDNS is a high-speed DNS measurement toolkit that handles billions of lookups from a single server.
 * * *
 ## Lab Affiliations
 
