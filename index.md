@@ -45,7 +45,7 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 ## Open Source
 [LZR](https://github.com/stanford-esrg/lzr) efficiently detects and fingerprints unexpected services running on unexpected ports. LZR can detect up to 18 unique protocols simultaneously with just two extra packets and can fingerprint over 35 different protocols.
 
-[GPS](https://github.com/stanford-esrg/gps) is coming soon! GPS predicts IPv4 services across all 65K ports.
+[GPS](https://github.com/stanford-esrg/gps) predicts IPv4 services across all 65K ports.
 
 [Stratosphere](https://github.com/stanford-esrg/stratosphere) uses password generation algorithms to discover publicly accessible cloud storage buckets.
 
