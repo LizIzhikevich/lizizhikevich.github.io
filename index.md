@@ -14,7 +14,7 @@ gallery:
 * * *
 ## Peer-Reviewed Publications
 
-**L. Izhikevich**, R. Teixeira, Z. Durumeric. [Predicting IPv4 Services Across All Ports](/assets/papers/gps.pdf). In ACM Special Interest Group on Data Communication (SIGCOMM), August 2022. 
+**L. Izhikevich**, R. Teixeira, Z. Durumeric. [Predicting IPv4 Services Across All Ports](/assets/papers/gps.pdf). In ACM SIGCOMM, 2022. 
 
 M. Ziv, **L. Izhikevich**, K. Ruth, K. Izhikevich, Z. Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/ASDB.pdf). In ACM Internet Measurement Conference (IMC), 2021. 
 
