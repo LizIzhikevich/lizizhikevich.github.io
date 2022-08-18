@@ -14,6 +14,8 @@ gallery:
 * * *
 ## Peer-Reviewed Publications
 
+**L. Izhikevich**, G. Akiwate, B. Berger, S. Drakontaidis, A. Ascheman, P. Pearce, D. Adrian, Z. Durumeric. [ZDNS: A Fast DNS Toolkit for Internet Measurement](). In ACM Internet Measurement Conference (IMC), 2022. 
+
 **L. Izhikevich**, R. Teixeira, Z. Durumeric. [Predicting IPv4 Services Across All Ports](/assets/papers/gps.pdf). In ACM SIGCOMM, 2022. 
 
 M. Ziv, **L. Izhikevich**, K. Ruth, K. Izhikevich, Z. Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/ASDB.pdf). In ACM Internet Measurement Conference (IMC), 2021. 
@@ -63,7 +65,6 @@ Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visi
 Current Projects:
 * Continuous Intelligent Internet-Wide Scanning: Building an intelligent scanning system that continuously predicts Internet-wide activity (Ongoing Work)
 * Empirically studying the security risks of serverless storage in the cloud (Ongoing Work)
-* Building a Fast DNS Toolkit For Internet Measurement (Under Submission)
 * Understanding Targeted Scanning (Under Submission)
 
 
@@ -89,7 +90,7 @@ Collaborated with Prof. [Brad Voytek](https://voyteklab.com), [Erik Peterson](ht
 #### Department and University Service
 * Ph.D. Admissions Committee, Computer Science, Stanford University, 2019-2022.
 * Ethics & Society Review of HAI Seed Grants Committee, Stanford University, 2022-2023.
-* Chair of Ph.D. Applicant Support Program, Stanford University, 2021-2023
+* Chair of Ph.D. Applicant Support Program, Stanford University, 2021-2022.
 
 * * *
 ## Teaching
