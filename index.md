@@ -86,11 +86,16 @@ Collaborated with Prof. [Brad Voytek](https://voyteklab.com), [Erik Peterson](ht
 #### Technical Program Committees
 * Symposium on Research in Attacks, Intrusions, and Defenses (RAID), 2022.
 * The Passive and Active Measurement Conference (PAM), 2022.
+* External Reviewer: USENIX Security, 2019-2021.
+* External Reviewer: Internet Measurement Conference (IMC), 2019-2021.
 
 #### Department and University Service
 * Ph.D. Admissions Committee, Computer Science, Stanford University, 2019-2022.
-* Ethics & Society Review of HAI Seed Grants Committee, Stanford University, 2022-2023.
-* Chair of Ph.D. Applicant Support Program, Stanford University, 2021-2022.
+* Chair of Ph.D. Applicant Support Program, Stanford University, 2021-2023.
+* Ethics & Society Review of HAI Seed Grants Committee, Stanford University, 2022.
+* Computer Science Faculty Search Committee, Stanford University, 2022-2023.
+* Data Science Faculty Search Committee, Stanford University, 2022-2023.
+
 
 * * *
 ## Teaching
