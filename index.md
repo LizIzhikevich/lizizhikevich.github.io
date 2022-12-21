@@ -64,9 +64,10 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/) on computer networking and security.
 
 Current Projects:
-* Continuous Intelligent Internet-Wide Scanning: Building an intelligent scanning system that continuously predicts Internet-wide activity (Ongoing Work)
-* Empirically studying the security risks of serverless storage in the cloud (Ongoing Work)
-* Understanding Targeted Scanning (Under Submission)
+* Investigating the networking and security challenges of low earth orbit satellite networking (Ongoing work)
+* Building an intelligent scanning system that continuously predicts Internet-wide activity (Ongoing Work)
+* Empirically studying the security risks of serverless storage in the cloud (Under Submission)
+* Understanding Targeted IPv4 Scanning (Under Submission)
 
 
 [SYSTEMS AND NETWORKS LAB](https://www.sysnet.ucsd.edu) 
@@ -87,6 +88,7 @@ Collaborated with Prof. [Brad Voytek](https://voyteklab.com), [Erik Peterson](ht
 #### Technical Program Committees
 * Symposium on Research in Attacks, Intrusions, and Defenses (RAID), 2022.
 * The Passive and Active Measurement Conference (PAM), 2022.
+* External Reviewer: IEEE Security and Privacy, 2022.
 * External Reviewer: USENIX Security, 2019-2021.
 * External Reviewer: Internet Measurement Conference (IMC), 2019-2021.
 
