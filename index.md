@@ -13,15 +13,15 @@ gallery:
 
 * * *
 ## Peer-Reviewed Publications 
-##### <sup>$+$</sup>denotes mentee, <sup>$\*$</sup> co-first authorship
+##### <sup>+</sup> indicates mentee, <sup>*</sup> indicates co-first authorship
 
-**L. Izhikevich**, G. Akiwate, B. Berger<sup>$+$</sup>, S. Drakontaidis, A. Ascheman<sup>$+$</sup>, P. Pearce, D. Adrian, Z. Durumeric. [ZDNS: A Fast DNS Toolkit for Internet Measurement](/assets/papers/ZDNS.pdf). In ACM Internet Measurement Conference (IMC), 2022. **\*Community Contribution Award\***
+**L. Izhikevich**, G. Akiwate, B. Berger<sup>+</sup>, S. Drakontaidis, A. Ascheman<sup>+</sup>, P. Pearce, D. Adrian, Z. Durumeric. [ZDNS: A Fast DNS Toolkit for Internet Measurement](/assets/papers/ZDNS.pdf). In ACM Internet Measurement Conference (IMC), 2022. **\*Community Contribution Award\***
 
 **L. Izhikevich**, R. Teixeira, Z. Durumeric. [Predicting IPv4 Services Across All Ports](/assets/papers/gps.pdf). In ACM SIGCOMM, 2022. [[Blog Post]](https://blog.apnic.net/2022/10/11/predicting-ipv4-services-across-all-ports/)
 
-M. Ziv<sup>$+$</sup>, **L. Izhikevich**, K. Ruth, K. Izhikevich<sup>$+$</sup>, Z. Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/ASDB.pdf). In ACM Internet Measurement Conference (IMC), 2021. 
+M. Ziv<sup>+</sup>, **L. Izhikevich**, K. Ruth, K. Izhikevich<sup>+</sup>, Z. Durumeric. [ASdb: A System for Classifying Owners of Autonomous Systems](/assets/papers/ASDB.pdf). In ACM Internet Measurement Conference (IMC), 2021. 
 
-J. Cable<sup>$+$</sup><sup>$\*$</sup>, D. Gregory<sup>$+$</sup><sup>$\*$</sup>, **L. Izhikevich<sup>$*$</sup>**, Z. Durumeric. [Stratosphere: Finding Vulnerable Cloud Storage Buckets](/assets/papers/stratosphere.pdf). In Proceedings of the 24th ACM International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2021. 
+J. Cable<sup>+\*</sup>, D. Gregory<sup>+\*</sup>, **L. Izhikevich<sup>\*</sup>**, Z. Durumeric. [Stratosphere: Finding Vulnerable Cloud Storage Buckets](/assets/papers/stratosphere.pdf). In Proceedings of the 24th ACM International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2021. 
 
 **L. Izhikevich**, R. Teixeira, Z. Durumeric. [LZR: Identifying Unexpected Internet Services](/assets/papers/lzr.pdf). In 30th USENIX Security Symposium, 2021. [[Blog Post]](https://blog.apnic.net/2021/12/21/identifying-unexpected-internet-services/)
 
