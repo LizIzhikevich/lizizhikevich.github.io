@@ -86,6 +86,7 @@ Collaborated with Prof. [Brad Voytek](https://voyteklab.com), [Erik Peterson](ht
 ## Professional Service
 
 #### Technical Program Committees
+* Internet Measurement Conference (IMC), 2023.
 * Symposium on Research in Attacks, Intrusions, and Defenses (RAID), 2022.
 * The Passive and Active Measurement Conference (PAM), 2022.
 * External Reviewer: IEEE Security and Privacy, 2022.
@@ -93,11 +94,11 @@ Collaborated with Prof. [Brad Voytek](https://voyteklab.com), [Erik Peterson](ht
 * External Reviewer: Internet Measurement Conference (IMC), 2019-2021.
 
 #### Department and University Service
-* Ph.D. Admissions Committee, Computer Science, Stanford University, 2019-2022.
-* Chair of Ph.D. Applicant Support Program, Stanford University, 2021-2023.
-* Ethics & Society Review of HAI Seed Grants Committee, Stanford University, 2022.
-* Computer Science Faculty Search Committee, Stanford University, 2022-2023.
 * Data Science Faculty Search Committee, Stanford University, 2022-2023.
+* Computer Science Faculty Search Committee, Stanford University, 2022-2023.
+* Ethics & Society Review of HAI Seed Grants Committee, Stanford University, 2022.
+* Chair of Ph.D. Applicant Support Program, Stanford University, 2021-2023.
+* Ph.D. Admissions Committee, Computer Science, Stanford University, 2019-2022.
 
 
 * * *
@@ -120,9 +121,9 @@ Instructional Assistant (at UC San Diego):
 * * *
 ## Awards
 
-* Undergraduate Award for Excellence in Teaching @UC San Diego
 * NSF Graduate Research Fellowship 
 * Stanford Graduate Fellowship in Science and Engineering
+* Undergraduate Award for Excellence in Teaching @UC San Diego
 * Ledell Family Endowed Research Scholarship for Science and Engineering @UC San Diego
 * Warren Undergraduate Research Scholarship Recipient @UC San Diego
 * UCSD Big Pixel Initiative Hackathon Winner
