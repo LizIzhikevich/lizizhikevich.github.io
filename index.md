@@ -15,7 +15,7 @@ gallery:
 ## Peer-Reviewed Publications 
 ##### <sup>+</sup> indicates mentee, <sup>*</sup> indicates co-first authorship
 
-**L. Izhikevich**, G. Akiwate, B. Berger<sup>+</sup>, S. Drakontaidis, A. Ascheman<sup>+</sup>, P. Pearce, D. Adrian, Z. Durumeric. [ZDNS: A Fast DNS Toolkit for Internet Measurement](/assets/papers/ZDNS.pdf). In ACM Internet Measurement Conference (IMC), 2022. **\*Community Contribution Award\***
+**L. Izhikevich**, G. Akiwate, B. Berger<sup>+</sup>, S. Drakontaidis, A. Ascheman<sup>+</sup>, P. Pearce, D. Adrian, Z. Durumeric. [ZDNS: A Fast DNS Toolkit for Internet Measurement](/assets/papers/ZDNS.pdf). In ACM Internet Measurement Conference (IMC), 2022. [[Blog Post]](https://blog.apnic.net/2023/03/22/zdns-a-fast-dns-toolkit-for-internet-measurement/) **\*Community Contribution Award\***
 
 **L. Izhikevich**, R. Teixeira, Z. Durumeric. [Predicting IPv4 Services Across All Ports](/assets/papers/gps.pdf). In ACM SIGCOMM, 2022. [[Blog Post]](https://blog.apnic.net/2022/10/11/predicting-ipv4-services-across-all-ports/)
 
