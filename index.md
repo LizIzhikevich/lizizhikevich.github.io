@@ -66,7 +66,7 @@ Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visi
 
 Current Projects:
 * Investigating the networking and security challenges of low earth orbit satellite networking (Ongoing work)
-* Building an intelligent scanning system that continuously predicts Internet-wide activity (Ongoing Work)
+* Building an intelligent scanning system that continuously predicts Internet-wide activity (Under Submission)
 * Empirically studying the security risks of serverless storage in the cloud (Under Submission)
 * Understanding Targeted IPv4 Scanning (Under Submission)
 
@@ -87,6 +87,7 @@ Collaborated with Prof. [Brad Voytek](https://voyteklab.com), [Erik Peterson](ht
 ## Professional Service
 
 #### Technical Program Committees
+* IEEE Security and Privacy, 2023-2024.
 * Internet Measurement Conference (IMC), 2023.
 * Symposium on Research in Attacks, Intrusions, and Defenses (RAID), 2022.
 * The Passive and Active Measurement Conference (PAM), 2022.
