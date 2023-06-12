@@ -32,6 +32,10 @@ Ao, L., **Izhikevich, L.**, Voelker, G., Porter, G. [Sprocket: A Serverless Vide
 
 More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK0AAAAAJ&hl=en)
 
+***
+## Pre-Prints
+**L. Izhikevich**, M. Tran<sup>+</sup>, K. Izhikevich<sup>+</sup>,  G. Akiwate, Z. Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/LEO-HitchHiking.pdf). June 2023.
+
 * * *
 ## Other Publications
 
@@ -56,6 +60,9 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 [ASdb](https://asdb.stanford.edu/) is a periodically updating dataset of autonomous systems and their business categories.
 
 [ZDNS](https://github.com/zmap/zdns) is a high-speed DNS measurement toolkit that handles billions of lookups from a single server.
+
+[LEO HitchHiking](https://github.com/stanford-esrg/LEO_HitchHiking) is a methodology to measure LEO satellite network characteristics at scale.
+
 * * *
 ## Lab Affiliations
 
