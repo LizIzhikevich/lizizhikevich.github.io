@@ -61,7 +61,7 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 
 [ZDNS](https://github.com/zmap/zdns) is a high-speed DNS measurement toolkit that handles billions of lookups from a single server.
 
-[LEO HitchHiking](https://github.com/stanford-esrg/LEO_HitchHiking) is a methodology to measure LEO satellite network characteristics at scale.
+[LEO HitchHiking](https://github.com/stanford-esrg/LEO_HitchHiking) measures LEO satellite network characteristics at scale.
 
 * * *
 ## Lab Affiliations
