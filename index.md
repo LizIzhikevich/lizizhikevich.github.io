@@ -98,7 +98,7 @@ Collaborated with Prof. [Brad Voytek](https://voyteklab.com), [Erik Peterson](ht
 #### Technical Program Committees
 * IEEE Security and Privacy, 2023-2024.
 * Internet Measurement Conference (IMC), 2023.
-* Symposium on Research in Attacks, Intrusions, and Defenses (RAID), 2022-2023.
+* Symposium on Research in Attacks, Intrusions, and Defenses (RAID), 2022, 2023.
 * The Passive and Active Measurement Conference (PAM), 2022.
 * External Reviewer: IEEE Security and Privacy, 2022.
 * External Reviewer: USENIX Security, 2019-2021.
