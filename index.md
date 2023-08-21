@@ -15,6 +15,8 @@ gallery:
 ## Peer-Reviewed Publications 
 ##### <sup>+</sup> indicates mentee, <sup>*</sup> indicates co-first authorship
 
+**L. Izhikevich**, M. Tran<sup>+</sup>, M. Kallitsis, A. Fass, Z. Durumeric. [Cloud Watching: Understanding Attacks Against Cloud-Hosted Services](). In ACM Internet Measurement Conference (IMC), 2023. 
+
 **L. Izhikevich**, G. Akiwate, B. Berger<sup>+</sup>, S. Drakontaidis, A. Ascheman<sup>+</sup>, P. Pearce, D. Adrian, Z. Durumeric. [ZDNS: A Fast DNS Toolkit for Internet Measurement](/assets/papers/ZDNS.pdf). In ACM Internet Measurement Conference (IMC), 2022. 
 **\*Community Contribution Award\*** [[Blog Post]](https://blog.apnic.net/2023/03/22/zdns-a-fast-dns-toolkit-for-internet-measurement/) 
 
