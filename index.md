@@ -66,33 +66,6 @@ Moshiri N., **Izhikevich L.**  [Data Structures](https://stepik.org/course/579/p
 [LEO HitchHiking](https://github.com/stanford-esrg/LEO_HitchHiking) measures LEO satellite network characteristics at scale.
 
 * * *
-## Lab Affiliations
-
-[EMPIRICAL SECURITY RESEARCH GROUP](https://esrg.stanford.edu) 
-(January 2019 - Present)
-
-Collaborating with Prof. [Zakir Durumeric](https://zakird.com) and Stanford Visiting Scholar [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/) on computer networking and security.
-
-Current Projects:
-* Investigating the networking and security challenges of low earth orbit satellite networking (Ongoing work)
-* Building an intelligent scanning system that continuously predicts Internet-wide activity (Under Submission)
-* Empirically studying the security risks of serverless storage in the cloud (Under Submission)
-* Understanding Targeted IPv4 Scanning (Under Submission)
-
-
-[SYSTEMS AND NETWORKS LAB](https://www.sysnet.ucsd.edu) 
-(July 2017- September 2018)
-
-Collaborated with Prof. [Geoff Voelker](http://www.cs.ucsd.edu/~voelker) and Prof. [George Porter](http://www.cs.ucsd.edu/~gmporter/) on serverless distributed systems and security related research.
-
-[VOYTEK LAB FOR COGNITIVE AND COMPUTATIONAL NEUROSCIENCE](https://voyteklab.com) 
-(Jan 2015 – September 2018)
-
-Collaborated with Prof. [Brad Voytek](https://voyteklab.com), [Erik Peterson](http://www.robotpuggle.com) and [Richard Gao](http://www.rdgao.com) on electrophysiological data analysis.
-
-
-
-* * *
 ## Professional Service
 
 #### Technical Program Committees
