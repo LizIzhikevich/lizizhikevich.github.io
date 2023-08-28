@@ -103,19 +103,13 @@ Instructional Assistant (at UC San Diego):
 
 
 * * *
-## Awards
-* Stanford-wide Community Impact Award
-* Stanford CS Student Services Award
-* NSF Graduate Research Fellowship 
-* Stanford Graduate Fellowship in Science and Engineering
-* Undergraduate Award for Excellence in Teaching @UC San Diego
-* Ledell Family Endowed Research Scholarship for Science and Engineering @UC San Diego
-* Warren Undergraduate Research Scholarship Recipient @UC San Diego
-* UCSD Big Pixel Initiative Hackathon Winner
-* Teradata Datathon Finalist
-* Warren Undergraduate Research Scholarship Recipient @UC San Diego
-* Yelp Dataset Challenge Grand Prize Winner
-* Society for Women Engineers Admiral Grace Murray Hopper Scholarship Recipient
+## Awards and Fellowships
+* EECS Rising Stars (International Recognition), 2023
+* Stanford-wide Community Impact Award, 2023
+* Stanford CS Student Services Award, 2023
+* NSF Graduate Research Fellowship, 2018
+* Stanford Graduate Fellowship in Science and Engineering, 2018
+* Undergraduate Award for Excellence in Teaching @UC San Diego, 2018
 
 * * *
 ## In the News
