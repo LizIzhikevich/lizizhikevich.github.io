@@ -104,7 +104,7 @@ Instructional Assistant (at UC San Diego):
 
 * * *
 ## Awards and Fellowships
-* EECS Rising Stars (International Recognition), 2023
+* EECS Rising Star (International Recognition), 2023
 * Stanford-wide Community Impact Award, 2023
 * Stanford CS Student Services Award, 2023
 * NSF Graduate Research Fellowship, 2018
