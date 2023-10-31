@@ -14,9 +14,9 @@ gallery:
 * * *
 ## Research Overview
 
-My research brings a data-driven approach to studying the performance and security of terrestrial and satellite Internet.
-I build systems that learn patterns from and collect data about operator, network, and attacker behaviors.
-I apply statistics to the data my systems collect to surface critical operational challenges and threats. 
+My research brings a data-driven approach to understanding the Internet's performance and security. 
+I build systems that learn patterns from and collect data about network, operator, and attacker behaviors. 
+I apply rigorous statistical methods to the data my systems collect to surface critical operational challenges and threats. 
 
 * * *
 ## Peer-Reviewed Publications 
