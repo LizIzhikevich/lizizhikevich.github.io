@@ -45,6 +45,7 @@ More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK
 ## Pre-Prints
 **L. Izhikevich**, M. Tran<sup>+</sup>, K. Izhikevich<sup>+</sup>,  G. Akiwate, Z. Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/LEO-HitchHiking.pdf). June 2023.
 
+K. Izhikevich<sup>+</sup>, G. Voelker, S. Savage, **L. Izhikevich**. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](/assets/papers/honeybuckets.pdf). November 2023.
 * * *
 ## Other Publications
 
