@@ -22,7 +22,7 @@ I use quantitative analysis, including rigorous statistics, on the data my syste
 ## Peer-Reviewed Publications 
 ##### <sup>+</sup> indicates mentee, <sup>*</sup> indicates co-first authorship
 
-**L. Izhikevich**, M. Tran<sup>+</sup>, K. Izhikevich<sup>+</sup>,  G. Akiwate, Z. Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/LEO-HitchHiking.pdf). ACM SIGMETRICS/IFIP Performance, June 2024.
+**L. Izhikevich**, M. Tran<sup>+</sup>, K. Izhikevich<sup>+</sup>,  G. Akiwate, Z. Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/LEO-HitchHiking.pdf). In ACM SIGMETRICS/IFIP Performance, June 2024.
 
 **L. Izhikevich**, M. Tran<sup>+</sup>, M. Kallitsis, A. Fass, Z. Durumeric. [Cloud Watching: Understanding Attacks Against Cloud-Hosted Services](/assets/papers/Cloud_Watching.pdf). In ACM Internet Measurement Conference (IMC), 2023. 
 
