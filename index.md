@@ -22,6 +22,8 @@ I use quantitative analysis, including rigorous statistics, on the data my syste
 ## Peer-Reviewed Publications 
 ##### <sup>+</sup> indicates mentee, <sup>*</sup> indicates co-first authorship
 
+K. Izhikevich<sup>+</sup>, G. Voelker, S. Savage, **L. Izhikevich**. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](/assets/papers/honeybuckets.pdf). In Proceedings of the IEEE European Symposium on Security and Privacy, July 2024.
+
 **L. Izhikevich**, M. Tran<sup>+</sup>, K. Izhikevich<sup>+</sup>,  G. Akiwate, Z. Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/LEO-HitchHiking.pdf). In ACM SIGMETRICS/IFIP Performance, June 2024.
 
 **L. Izhikevich**, M. Tran<sup>+</sup>, M. Kallitsis, A. Fass, Z. Durumeric. [Cloud Watching: Understanding Attacks Against Cloud-Hosted Services](/assets/papers/Cloud_Watching.pdf). In ACM Internet Measurement Conference (IMC), 2023. 
@@ -44,9 +46,10 @@ L. Ao, **L. Izhikevich**, G. Voelker, G. Porter. [Sprocket: A Serverless Video P
 More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK0AAAAAJ&hl=en)
 
 ***
-## Pre-Prints
+## Under Submission
 
-K. Izhikevich<sup>+</sup>, G. Voelker, S. Savage, **L. Izhikevich**. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](/assets/papers/honeybuckets.pdf). November 2023.
+**L. Izhikevich**, R. Teixeira, Z. Durumeric. [Kronos: Continuously and Comprehensively Tracking Internet Services]().
+
 * * *
 ## Other Publications
 
