@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Open Source"
+permalink: /opensource/
+---
+
 * * *
 ## Open Source
 [LZR](https://github.com/stanford-esrg/lzr) efficiently detects and fingerprints unexpected services running on unexpected ports. Check out [how Censys uses LZR](https://censys.com/new-universal-dataset-improves-visibility/).
