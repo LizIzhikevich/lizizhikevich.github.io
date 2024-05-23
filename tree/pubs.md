@@ -1,7 +1,3 @@
----
-layout: default
----
-
 * * *
 ## Peer-Reviewed Publications 
 ##### <sup>*</sup> indicates co-first authorship
