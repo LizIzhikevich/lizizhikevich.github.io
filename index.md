@@ -42,23 +42,6 @@ K. Izhikevich<sup>+</sup>, G. Voelker, S. Savage, **L. Izhikevich**. [Using Hone
 K. Izhikevich, B. Du, A. Ukani, S. Rao, **L. Izhikevich**. [Trust, But Verify, Operator-Reported Geolocation]()
 
 * * *
-## Teaching
-
-Co-Creator/Co-Lecturer/Instructional Assistant (at Stanford):
-* [CS249i: The Modern Internet](https://cs249i.stanford.edu)
-
-Instructional Assistant (at Stanford):
-* [CS356: Topics in computer Networking and Security](https://cs356.stanford.edu)
-
-Instructional Assistant (at UC San Diego):
-
-* CSE100: Advanced Data Structures in C++ (assisted 4 times + textbook author)
-* CSE8A: Introduction to Programming in Java, Part 1
-* CSE8B: Introduction to Programming in Java, Part 2
-* CSE12: Introduction to Data Structures
-
-
-* * *
 ## Adventures
 
 {% include gallery layout='third' %}
