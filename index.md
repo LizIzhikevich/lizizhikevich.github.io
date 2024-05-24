@@ -32,6 +32,8 @@ K. Izhikevich<sup>+</sup>, G. Voelker, S. Savage, **L. Izhikevich**. [Using Hone
 
 **L. Izhikevich**, R. Teixeira, Z. Durumeric. [Predicting IPv4 Services Across All Ports](/assets/papers/gps.pdf). In ACM SIGCOMM, 2022. [[Blog Post]](https://blog.apnic.net/2022/10/11/predicting-ipv4-services-across-all-ports/)
 
+[More](/publications/)...
+
 ***
 ## Publications Under Submission
 
