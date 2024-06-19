@@ -18,6 +18,8 @@ My research brings a data-driven approach to understanding the Internet's perfor
 I build systems that learn patterns from and collect data about network, operator, and attacker behaviors. 
 I use quantitative analysis, including rigorous statistics, on the data my systems collect to surface critical operational challenges and threats.
 
+*I am actively recruiting students (Ph.D, masters, undergrad) and post-docs to join my lab. Email me if interested!*
+
 * * *
 ## Recent Publications 
 
