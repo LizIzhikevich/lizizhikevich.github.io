@@ -20,7 +20,6 @@ I use quantitative analysis, including rigorous statistics, on the data my syste
 More details [here](assets/app_materials/ResearchStatement.pdf).
 
 My lab (is growing!) and consists of the following wonderful people: [Manda Tran](https://mandatran.github.io/) (Ph.D.).
-
 *I am actively recruiting students (Ph.D, masters, undergrad) and post-docs to join my lab. Email me if interested!*
 
 * * *
