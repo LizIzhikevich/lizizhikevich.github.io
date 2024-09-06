@@ -16,7 +16,7 @@ gallery:
 
 My research brings a data-driven approach to understanding the Internet's performance and security. 
 I build systems that learn patterns from and collect data about network, operator, and attacker behaviors. 
-I use quantitative analysis, including rigorous statistics, on the data my systems collect to surface critical operational challenges and threats.
+I quantitatively analyze the data my systems collect to surface critical operational challenges and threats.
 More details [here](assets/app_materials/ResearchStatement.pdf).
 
 My lab consists of the following wonderful people: [Manda Tran](https://mandatran.github.io/) (Ph.D).
