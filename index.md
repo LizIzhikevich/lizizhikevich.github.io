@@ -41,9 +41,9 @@ K. Izhikevich, G. Voelker, S. Savage, **L. Izhikevich**. [Using Honeybuckets to 
 ***
 ## Publications Under Submission
 
-**L. Izhikevich**, R. Teixeira, Z. Durumeric. [Kronos: Continuously and Comprehensively Tracking Internet Services]().
+**L. Izhikevich**, R. Enghardt, T. Huang, R. Teixeira. [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](https://arxiv.org/abs/2409.09846)
 
-**L. Izhikevich**, R. Enghardt, T. Huang, R. Teixeira. [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink]()
+**L. Izhikevich**, R. Teixeira, Z. Durumeric. [Kronos: Continuously and Comprehensively Tracking Internet Services]().
 
 K. Izhikevich, B. Du, A. Ukani, S. Rao, **L. Izhikevich**. [Trust, But Verify, Operator-Reported Geolocation]()
 
