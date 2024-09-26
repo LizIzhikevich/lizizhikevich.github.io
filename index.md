@@ -25,6 +25,8 @@ My lab consists of the following wonderful people: [Manda Tran](https://mandatra
 * * *
 ## Recent Publications 
 
+**L. Izhikevich**, R. Enghardt, T. Huang, R. Teixeira. [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](https://arxiv.org/abs/2409.09846). In ACM SIGMETRICS/IFIP Performance, June 2025.
+
 K. Izhikevich, G. Voelker, S. Savage, **L. Izhikevich**. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](/assets/papers/honeybuckets.pdf). In Proceedings of the IEEE European Symposium on Security and Privacy, July 2024.
 
 **L. Izhikevich**, M. Tran, K. Izhikevich,  G. Akiwate, Z. Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/LEO-HitchHiking.pdf). In ACM SIGMETRICS/IFIP Performance, June 2024.
@@ -40,8 +42,6 @@ K. Izhikevich, G. Voelker, S. Savage, **L. Izhikevich**. [Using Honeybuckets to 
 
 ***
 ## Publications Under Submission
-
-**L. Izhikevich**, R. Enghardt, T. Huang, R. Teixeira. [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](https://arxiv.org/abs/2409.09846)
 
 **L. Izhikevich**, R. Teixeira, Z. Durumeric. [Kronos: Continuously and Comprehensively Tracking Internet Services]().
 
