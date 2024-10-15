@@ -14,18 +14,16 @@ gallery:
 * * *
 ## Research Overview
 
-My research brings a data-driven approach to understanding the Internet's performance and security. 
-I build systems that learn patterns from and collect data about network, operator, and attacker behaviors. 
-I quantitatively analyze the data my systems collect to surface critical operational challenges and threats.
-More details [here](assets/app_materials/ResearchStatement.pdf).
-
-My lab consists of the following wonderful people: [Manda Tran](https://mandatran.github.io/) (Ph.D).
-*I am actively recruiting students (Ph.D, masters, undergrad) and post-docs to join my lab. Email me if interested!*
+I lead [UCLA's Security and Networking (SCaN) Lab](https://ucla-scan.github.io)!
+Our research brings a data-driven approach to understanding the Internet's performance and security. 
+We build systems that learn patterns from and collect data about network, operator, and attacker behaviors. 
+We quantitatively analyze the data my systems collect to surface critical operational challenges and threats.
+More details on my research vision can be found [here](assets/app_materials/ResearchStatement.pdf).
 
 * * *
 ## Recent Publications 
 
-**L. Izhikevich**, R. Enghardt, T. Huang, R. Teixeira. [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](https://arxiv.org/abs/2409.09846). In ACM SIGMETRICS/IFIP Performance, June 2025.
+**L. Izhikevich**, R. Enghardt, T. Huang, R. Teixeira. [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](/assets/papers/EyeOnTheSky.pdf). In ACM SIGMETRICS/IFIP Performance, June 2025.
 
 K. Izhikevich, G. Voelker, S. Savage, **L. Izhikevich**. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](/assets/papers/honeybuckets.pdf). In Proceedings of the IEEE European Symposium on Security and Privacy, July 2024.
 
