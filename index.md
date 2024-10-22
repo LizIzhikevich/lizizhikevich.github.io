@@ -21,6 +21,12 @@ We quantitatively analyze the data my systems collect to surface critical operat
 More details on my research vision can be found [here](assets/app_materials/ResearchStatement.pdf).
 
 * * *
+## T'is the season of the faculty job market...
+
+For those of you looking for example materials, you can find my statements from the '23-'24 job market here:
+[Research](assets/app_materials/ResearchStatement.pdf), [Diversity](assets/app_materials/DiversityStatement.pdf), and [Teaching](assets/app_materials/TeachingStatement.pdf).
+
+* * *
 ## Recent Publications 
 
 **L. Izhikevich**, R. Enghardt, T. Huang, R. Teixeira. [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](/assets/papers/EyeOnTheSky.pdf). In ACM SIGMETRICS/IFIP Performance, June 2025.
