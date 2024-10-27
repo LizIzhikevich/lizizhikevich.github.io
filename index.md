@@ -14,7 +14,7 @@ gallery:
 * * *
 ## Research Overview
 
-I lead [UCLA's Security and Networking (SCaN) Lab](https://ucla-scan.github.io)!
+I lead [UCLA's Security and Networking (ScaN) Lab](https://ucla-scan.github.io)!
 Our research brings a data-driven approach to understanding the Internet's performance and security. 
 We build systems that learn patterns from and collect data about network, operator, and attacker behaviors. 
 We quantitatively analyze the data my systems collect to surface critical operational challenges and threats.
