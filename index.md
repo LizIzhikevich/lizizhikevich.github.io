@@ -21,6 +21,11 @@ We quantitatively analyze the data our systems collect to surface critical opera
 More details on my research vision can be found [here](assets/app_materials/ResearchStatement.pdf).
 
 * * *
+## Teaching
+
+In Spring'25, I am teaching [ECE239AS: Computer Network Measurement and Security](https://lizizhikevich.github.io/ECE239AS-NetSec/).
+
+* * *
 ## Recent Publications 
 
 **L. Izhikevich**, R. Enghardt, T. Huang, R. Teixeira. [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](/assets/papers/EyeOnTheSky.pdf). In ACM SIGMETRICS/IFIP Performance, June 2025.
