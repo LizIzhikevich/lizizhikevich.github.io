@@ -48,7 +48,7 @@ K. Izhikevich, G. Voelker, S. Savage, **L. Izhikevich**. [Using Honeybuckets to 
 
 K. Izhikevich, B. Du, A. Ukani, S. Rao, **L. Izhikevich**. [Trust, But Verify, Operator-Reported Geolocation](https://arxiv.org/abs/2409.19109)
 
-H. Clark, J. Cody, E. Cubit, Z. Durumeric, M. Ellison, **L. Izhikevich**, A. Mirian. [Censys: A Map of Internet Hosts and Services]
+H. Clark, J. Cody, E. Cubit, Z. Durumeric, M. Ellison, **L. Izhikevich**, A. Mirian. [Censys: A Map of Internet Hosts and Services]()
 
 * * *
 ## Adventures
