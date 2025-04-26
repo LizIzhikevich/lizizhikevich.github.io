@@ -28,7 +28,7 @@ In Spring'25, I am teaching [ECE239AS: Computer Network Measurement and Security
 * * *
 ## Recent Publications 
 
-H. Clark, J. Cody, E. Cubit, Z. Durumeric, M. Ellison, **L. Izhikevich**, A. Mirian. [Censys: A Map of Internet Hosts and Services](). In ACM SIGCOMM, 2025.
+H. Clark, J. Cody, E. Cubit, Z. Durumeric, M. Ellison, **L. Izhikevich**, A. Mirian. [Censys: A Map of Internet Hosts and Services](). In ACM SIGCOMM, September 2025.
 
 **L. Izhikevich**, R. Enghardt, T. Huang, R. Teixeira. [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](/assets/papers/EyeOnTheSky.pdf). In ACM SIGMETRICS/IFIP Performance, June 2025.
 
