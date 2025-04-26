@@ -28,6 +28,8 @@ In Spring'25, I am teaching [ECE239AS: Computer Network Measurement and Security
 * * *
 ## Recent Publications 
 
+H. Clark, J. Cody, E. Cubit, Z. Durumeric, M. Ellison, **L. Izhikevich**, A. Mirian. [Censys: A Map of Internet Hosts and Services](). In ACM SIGCOMM, 2025.
+
 **L. Izhikevich**, R. Enghardt, T. Huang, R. Teixeira. [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](/assets/papers/EyeOnTheSky.pdf). In ACM SIGMETRICS/IFIP Performance, June 2025.
 
 K. Izhikevich, G. Voelker, S. Savage, **L. Izhikevich**. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](/assets/papers/honeybuckets.pdf). In Proceedings of the IEEE European Symposium on Security and Privacy, July 2024.
@@ -36,19 +38,12 @@ K. Izhikevich, G. Voelker, S. Savage, **L. Izhikevich**. [Using Honeybuckets to 
 
 **L. Izhikevich**, M. Tran, M. Kallitsis, A. Fass, Z. Durumeric. [Cloud Watching: Understanding Attacks Against Cloud-Hosted Services](/assets/papers/Cloud_Watching.pdf). In ACM Internet Measurement Conference (IMC), 2023. 
 
-**L. Izhikevich**, G. Akiwate, B. Berger, S. Drakontaidis, A. Ascheman, P. Pearce, D. Adrian, Z. Durumeric. [ZDNS: A Fast DNS Toolkit for Internet Measurement](/assets/papers/ZDNS.pdf). In ACM Internet Measurement Conference (IMC), 2022. 
-**\*Community Contribution Award\*** [[Blog Post]](https://blog.apnic.net/2023/03/22/zdns-a-fast-dns-toolkit-for-internet-measurement/) 
-
-**L. Izhikevich**, R. Teixeira, Z. Durumeric. [Predicting IPv4 Services Across All Ports](/assets/papers/gps.pdf). In ACM SIGCOMM, 2022. [[Blog Post]](https://blog.apnic.net/2022/10/11/predicting-ipv4-services-across-all-ports/)
-
 [More](/publications/)...
 
 ***
 ## Publications Under Submission
 
 K. Izhikevich, B. Du, A. Ukani, S. Rao, **L. Izhikevich**. [Trust, But Verify, Operator-Reported Geolocation](https://arxiv.org/abs/2409.19109)
-
-H. Clark, J. Cody, E. Cubit, Z. Durumeric, M. Ellison, **L. Izhikevich**, A. Mirian. [Censys: A Map of Internet Hosts and Services]()
 
 * * *
 ## Adventures
