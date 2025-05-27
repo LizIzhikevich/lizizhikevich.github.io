@@ -40,11 +40,6 @@ K. Izhikevich, G. Voelker, S. Savage, **L. Izhikevich**. [Using Honeybuckets to 
 
 [More](/publications/)...
 
-***
-## Publications Under Submission
-
-K. Izhikevich, B. Du, A. Ukani, S. Rao, **L. Izhikevich**. [Trust, But Verify, Operator-Reported Geolocation](https://arxiv.org/abs/2409.19109)
-
 * * *
 ## Adventures
 
