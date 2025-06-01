@@ -36,8 +36,14 @@ K. Izhikevich, G. Voelker, S. Savage, **L. Izhikevich**. [Using Honeybuckets to 
 
 **L. Izhikevich**, M. Tran, K. Izhikevich,  G. Akiwate, Z. Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/LEO-HitchHiking.pdf). In ACM SIGMETRICS/IFIP Performance, June 2024.
 
-
 [More](/publications/)...
+
+* * *
+## Select Publications
+
+**L. Izhikevich**, R. Teixeira, Z. Durumeric. [Predicting IPv4 Services Across All Ports](../assets/papers/gps.pdf). In ACM SIGCOMM, 2022. [[Blog Post]](https://blog.apnic.net/2022/10/11/predicting-ipv4-services-across-all-ports/)
+
+**L. Izhikevich**, R. Teixeira, Z. Durumeric. [LZR: Identifying Unexpected Internet Services](../assets/papers/lzr.pdf). In 30th USENIX Security Symposium, 2021. [[Blog Post]](https://blog.apnic.net/2021/12/21/identifying-unexpected-internet-services/)
 
 * * *
 ## Adventures
