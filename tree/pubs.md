@@ -7,6 +7,8 @@ permalink: /publications/
 ## Peer-Reviewed Publications 
 ##### <sup>*</sup> indicates co-first authorship
 
+M. Tran, K,. Huynh, D. Jain, D. Truong, S. Theeranantachai, B.Zhang, L. Zhang, **L Izhikevich**. [All Roads Lead to Roman-HitchHiking: Global Outage Detection for LEO Networks](), 2025. In ACM SIGCOMM LEO-NET, September 2025.
+
 H. Clark, J. Cody, E. Cubit, Z. Durumeric, M. Ellison, **L. Izhikevich**, A. Mirian. [Censys: A Map of Internet Hosts and Services](). In ACM SIGCOMM, September 2025.
 
 **L. Izhikevich**, R. Enghardt, T. Huang, R. Teixeira. [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](/assets/papers/EyeOnTheSky.pdf). In ACM SIGMETRICS/IFIP Performance, June 2025.
