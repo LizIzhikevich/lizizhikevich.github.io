@@ -30,7 +30,7 @@ In Spring'25, I taught [ECE239AS: Computer Network Measurement and Security](htt
 * * *
 ## Recent Publications 
 
-M. Tran, K. Huynh, D. Jain, D. Truong, S. Theeranantachai, B.Zhang, L. Zhang, **L. Izhikevich**. [Towards Global Outage Detection for LEO Networks](). In ACM SIGCOMM LEO-NET, September 2025.
+M. Tran, K. Huynh, D. Jain, D. Truong, S. Theeranantachai, B.Zhang, L. Zhang, **L. Izhikevich**. [Towards Global Outage Detection for LEO Networks](/assets/papers/OutageLEO.pdf). In ACM SIGCOMM LEO-NET, September 2025.
 
 H. Clark, J. Cody, E. Cubit, Z. Durumeric, M. Ellison, **L. Izhikevich**, A. Mirian. [Censys: A Map of Internet Hosts and Services](). In ACM SIGCOMM, September 2025.
 
