@@ -32,7 +32,7 @@ In Spring'25, I taught [ECE239AS: Computer Network Measurement and Security](htt
 
 M. Tran, K. Huynh, D. Jain, D. Truong, S. Theeranantachai, B.Zhang, L. Zhang, **L. Izhikevich**. [Towards Global Outage Detection for LEO Networks](/assets/papers/OutageLEO.pdf). In ACM SIGCOMM LEO-NET, September 2025.
 
-H. Clark, J. Cody, E. Cubit, Z. Durumeric, M. Ellison, **L. Izhikevich**, A. Mirian. [Censys: A Map of Internet Hosts and Services](). In ACM SIGCOMM, September 2025.
+H. Clark, J. Cody, E. Cubit, Z. Durumeric, M. Ellison, **L. Izhikevich**, A. Mirian. [Censys: A Map of Internet Hosts and Services](/assets/papers/censys-2025.pdf). In ACM SIGCOMM, September 2025.
 
 **L. Izhikevich**, R. Enghardt, T. Huang, R. Teixeira. [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](/assets/papers/EyeOnTheSky.pdf). In ACM SIGMETRICS/IFIP Performance, June 2025.
 
