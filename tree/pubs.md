@@ -38,6 +38,8 @@ More details on [Google Scholar](https://scholar.google.com/citations?user=jO0eK
 
 ## Other Publications
 
+O. Elamri, I. Zanoria, J. Zhi, B. Du, **L. Izhikevich** [Expanding Access, Exposing Risk: A Study of Starlink Hosts](/assets/papers/starlink-primes.pdf). In ACM Workshop of Policy-Relevant Internet Measurements and Experimentation, October 2025. 
+
 **Izhikevich, E.** [Building and Breaking Burst-Parallel Systems](https://escholarship.org/content/qt3cn612zr/qt3cn612zr.pdf). Masters Thesis. UC San Diego, 2018. 
 
 Moshiri, N., **Izhikevich L.** [Design and Analysis of Data Structures](https://www.amazon.com/Design-Analysis-Structures-Niema-Moshiri/dp/1981017232). 2018. Print.
