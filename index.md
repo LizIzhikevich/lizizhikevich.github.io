@@ -23,9 +23,9 @@ More details on my research vision can be found [here](assets/app_materials/Rese
 * * *
 ## Teaching
 
-In Fall'25, I am teaching [ECE132B: Computer Networking](https://bruinlearn.ucla.edu/courses/214363).
+Spring'26, Spring'25: [ECE239AS: Computer Network Measurement and Security](https://lizizhikevich.github.io/ECE239AS-NetSec/).
 
-In Spring'25, I taught [ECE239AS: Computer Network Measurement and Security](https://lizizhikevich.github.io/ECE239AS-NetSec/).
+Fall'25: [ECE132B: Computer Networking](https://bruinlearn.ucla.edu/courses/214363).
 
 * * *
 ## Recent Publications 
