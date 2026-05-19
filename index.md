@@ -44,6 +44,10 @@ K. Izhikevich, G. Voelker, S. Savage, **L. Izhikevich**. [Using Honeybuckets to 
 
 [More](/publications/)...
 
+* * *
+## Pre-Prints
+
+R. Tripathi, K. Izhikevich, S. Chaparala, M. Patel, S. Srinath, E. Zhou, B. Du,  **L. Izhikevich**. [IPHints: Inferring and Categorizing Customers of Internet Services](/assets/papers/IPHints.pdf). Under Submission. 
 
 * * *
 ## Adventures
