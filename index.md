@@ -17,17 +17,16 @@ gallery:
 I lead [UCLA's Security and Networking (ScaN) Lab](https://ucla-scan.github.io)!
 Our research brings a data-driven approach to understanding the Internet's performance and security, both on the ground and in space. 
 We build systems that learn patterns from and collect data about network, operator, and attacker behaviors. 
-We quantitatively analyze the data our systems collect to surface critical operational challenges and threats.
-More details on my research vision can be found [here](assets/app_materials/ResearchStatement.pdf).
+More details [here](assets/app_materials/ResearchStatement.pdf).
 
 * * *
 ## Teaching
 
+[ECE133A: Applied Numerical Computing](): Fall'26
+
 [ECE239AS: Networking and Security](https://lizizhikevich.github.io/ECE239AS-NetSec/): Spring'26, Winter'27, Spring'25
 
 [ECE132B: Computer Networking](https://bruinlearn.ucla.edu/courses/214363): Fall'25, Spring'27
-
-[ECE133A: Applied Numerical Computing](): Fall'26
 
 * * *
 ## Recent Publications 
