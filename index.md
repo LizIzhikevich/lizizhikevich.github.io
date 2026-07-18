@@ -31,15 +31,15 @@ More details [here](assets/app_materials/ResearchStatement.pdf).
 * * *
 ## Recent Publications 
 
+B. Du, Y. Tian, **L. Izhikevich**. [Proximity Operations and Policy Gaps in the LEO Constellation Era]().
+In Annual Research Conference on Communications, Information and Internet Policy (TPRC), September 2026.
+
 M. Tran, K. Huynh, D. Jain, D. Truong, S. Theeranantachai, B.Zhang, L. Zhang, **L. Izhikevich**. [Towards Global Outage Detection for LEO Networks](/assets/papers/OutageLEO.pdf). In ACM SIGCOMM LEO-NET, September 2025.
 
 H. Clark, J. Cody, E. Cubit, Z. Durumeric, M. Ellison, **L. Izhikevich**, A. Mirian. [Censys: A Map of Internet Hosts and Services](/assets/papers/censys-2025.pdf). In ACM SIGCOMM, September 2025.
 
 **L. Izhikevich**, R. Enghardt, T. Huang, R. Teixeira. [A Global Perspective on the Past, Present, and Future of Video Streaming over Starlink](/assets/papers/EyeOnTheSky.pdf). In ACM SIGMETRICS/IFIP Performance, June 2025.
 
-K. Izhikevich, G. Voelker, S. Savage, **L. Izhikevich**. [Using Honeybuckets to Characterize Cloud Storage Scanning in the Wild](/assets/papers/honeybuckets.pdf). In Proceedings of the IEEE European Symposium on Security and Privacy, July 2024.
-
-**L. Izhikevich**, M. Tran, K. Izhikevich,  G. Akiwate, Z. Durumeric. [Democratizing LEO Satellite Network Measurement](/assets/papers/LEO-HitchHiking.pdf). In ACM SIGMETRICS/IFIP Performance, June 2024.
 
 [More](/publications/)...
 
