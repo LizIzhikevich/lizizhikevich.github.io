@@ -7,6 +7,8 @@ permalink: /publications/
 ## Peer-Reviewed Publications 
 ##### <sup>*</sup> indicates co-first authorship
 
+S. Theeranantachai, M. Tran, B. Zhang, **L. Izhikevich**, L. Zhang. [How Area Geometry Shapes Link-State Routing Scalability in LEO Networks](). In IEEE International Conference on Network Protocols (ICNP), October 2026.
+
 B. Du, Y. Tian, **L. Izhikevich**. [Proximity Operations and Policy Gaps in the LEO Constellation Era](). In The Research Conference on Communications, Information and Internet Policy (TPRC), September 2026.
 
 M. Tran, K. Huynh, D. Jain, D. Truong, S. Theeranantachai, B.Zhang, L. Zhang, **L. Izhikevich**. [Towards Global Outage Detection for LEO Networks](/assets/papers/OutageLEO.pdf). In ACM SIGCOMM LEO-NET, September 2025.
