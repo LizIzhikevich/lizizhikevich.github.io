@@ -7,6 +7,8 @@ permalink: /publications/
 ## Peer-Reviewed Publications 
 ##### <sup>*</sup> indicates co-first authorship
 
+K. Izhikevich, B. Du, M. Tran, S. Rao, A. Ukani, R. Bellis, **L. Izhikevich**. [Rooting Out Incorrect RIPE Atlas Probe Geolocations](https://kizhikevich.github.io/assets/papers/ripe_paper.pdf). In ACM Internet Measurement Conference (IMC), October 2026.
+
 S. Theeranantachai, M. Tran, B. Zhang, **L. Izhikevich**, L. Zhang. [How Area Geometry Shapes Link-State Routing Scalability in LEO Networks](). In IEEE International Conference on Network Protocols (ICNP), October 2026.
 
 B. Du, Y. Tian, **L. Izhikevich**. [Proximity Operations and Policy Gaps in the LEO Constellation Era](). In The Research Conference on Communications, Information and Internet Policy (TPRC), September 2026.
