@@ -16,8 +16,7 @@ gallery:
 
 I lead [UCLA's Security and Networking (ScaN) Lab](https://ucla-scan.github.io)!
 Our research brings a data-driven approach to understanding the Internet's performance and security, both on the ground and in space. 
-We build systems that learn patterns from and collect data about network, operator, and attacker behaviors. 
-More details [here](assets/app_materials/ResearchStatement.pdf).
+We build systems that learn patterns and collect data about network, operator, and attacker behaviors. 
 
 * * *
 ## Teaching
@@ -49,7 +48,7 @@ H. Clark, J. Cody, E. Cubit, Z. Durumeric, M. Ellison, **L. Izhikevich**, A. Mir
 * * *
 ## Pre-Prints
 
-R. Tripathi, K. Izhikevich, S. Chaparala, M. Patel, S. Srinath, E. Zhou, B. Du,  **L. Izhikevich**. [IPHints: Inferring and Categorizing Customers of Internet Services](/assets/papers/IPHints.pdf). Under Submission. 
+R. Tripathi, K. Izhikevich, S. Chaparala, M. Patel, S. Srinath, E. Zhou, B. Du,  **L. Izhikevich**. [IPHints: Inferring and Categorizing Customers of Internet Services](/assets/papers/IPHints.pdf). 
 
 * * *
 ## Adventures
