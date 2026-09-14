@@ -7,6 +7,8 @@ permalink: /publications/
 ## Peer-Reviewed Publications 
 ##### <sup>*</sup> indicates co-first authorship
 
+M. Tran, B. Spang, P. Williams, E. Zawolkow, F. Ribeiro, T.-Y. Huang, R. Teixeira, **L. Izhikevich**. *Enabling Live Video Contribution Using LEO Satellites*. In ACM International Conference on emerging Networking EXperiments and Technologies (CoNEXT), December 2026.
+
 K. Izhikevich, B. Du, M. Tran, S. Rao, A. Ukani, R. Bellis, **L. Izhikevich**. [Rooting Out Incorrect RIPE Atlas Probe Geolocations](https://kizhikevich.github.io/assets/papers/ripe_paper.pdf). In ACM Internet Measurement Conference (IMC), October 2026.
 
 S. Theeranantachai, M. Tran, **L. Izhikevich**, B. Zhang, L. Zhang. [How Area Geometry Shapes Link-State Routing Scalability in LEO Networks](/assets/papers/icnp26-leo.pdf). In IEEE International Conference on Network Protocols (ICNP), October 2026.
