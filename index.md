@@ -23,7 +23,7 @@ We build systems that learn patterns and collect data about network, operator, a
 
 [ECE133A: Applied Numerical Computing](): Fall'26
 
-[ECE239AS: Networking and Security](https://lizizhikevich.github.io/ECE239AS-NetSec/): Spring'26, Winter'27, Spring'25
+[ECE239AS: Networking and Security](https://lizizhikevich.github.io/ECE239AS-NetSec/): Spring'25, Spring'26, Winter'27
 
 [ECE132B: Computer Networking](https://bruinlearn.ucla.edu/courses/214363): Fall'25, Spring'27
 
