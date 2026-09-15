@@ -21,7 +21,7 @@ We build systems that learn patterns and collect data about network, operator, a
 * * *
 ## Teaching
 
-[ECE133A: Applied Numerical Computing](): Fall'26
+[ECE133A: Applied Numerical Computing](https://lizizhikevich.github.io/ECE133A/): Fall'26
 
 [ECE239AS: Networking and Security](https://lizizhikevich.github.io/ECE239AS-NetSec/): Spring'25, Spring'26, Winter'27
 
